@@ -1,0 +1,621 @@
+case,crime,occurred,comments,building,address,disposition
+1905347,SUSPICIOUS EVENT,04-02-2023 21:39,~,MYSORE PALACE,"Chamrajpura, Mysuru, Karnataka 570001",Inactive
+1905348,DRUG INCIDENT,05-02-2023 10:39,~,Sri Ganapathy Sachchidananda Ashrama,"JP Nagara, Mysuru, Karnataka 570025",Unfounded
+1905349,TRAFFIC STOP,06-02-2023 01:39,~,Sizzling Corner,"Kuvempu Nagara, Mysuru, Karnataka 570023",Clear by Warning
+1905350,DRUG INCIDENT,07-02-2023 02:39,~,Study Centre / Reading Room - IAS kannadiga,"Krishnamurthy Puram, Mysuru, Karnataka 570004",Closed
+1905351,ASSIST EMS POLICE,08-02-2023 13:39,~,"Government Hospital, TK layout","TK Layout, Mysuru, Karnataka 570009",Inactive
+1905352,VADALISM,09-02-2023 20:39,~,University Of Mysore Campus,"University Of Mysore Campus, Mysuru, Karnataka",Inactive
+1905353,ASSIST FIRE DEPT POLICE,10-02-2023 15:39,~,RAILWAY MUSEUM MYSURU,"Yadavagiri, Mysuru, Karnataka 570005",Closed
+1905354,MURDER,11-02-2023 23:39,~,Corner House - V.V Mohalla,"Vani Vilas Mohalla, Mysuru, Karnataka 570002",Unfounded
+1905355,ATTEMPT TO MURDER,12-02-2023 09:39,~,Jayadeva Hospital,"Gokulam 3rd Stage, Mysuru, Karnataka 570016",Unfounded
+1905356,DACOITY,12-03-2023 11:39,~,SUYOG HOSPITAL,"Ramakrishnanagar, Mysuru, Karnataka 570023",Inactive
+1905357,RIOTS,12-04-2023 12:39,~,"JSS MEDICAL COLLEGE, Mysore","Bannimantap, Mysuru, Karnataka 570007",Inactive
+1905358,LOUD MUSIC,12-05-2023 14:39,~,Grand Mercure Mysore,"Nelson Mandela Rd, Mysuru, Karnataka 570021",Inactive
+1905359,RIOTS,12-06-2023 16:39,~,Mysuru Racecourse Entrance MRC,"JC Nagar, Mysuru, Karnataka 570010",Closed
+1905360,ARSON,12-07-2023 17:39,~,Rmc market,"Bandipalya, Mysuru, Karnataka 571311",Unfounded
+1905361,KIDNAPPING,12-02-2023 19:39,~,Sri Chamundeshwari Temple,"Chamundeshwari Temple, Chamundi Hill, Mysuru, Karnataka 570010",Clear by Warning
+1905362,ABDUCTION,12-09-2023 19:39,~,Karnataka State Open University,"Muktha Gangothri, Mysuru, Karnataka 570006",Unfounded
+1905363,ATTEMPT TO MURDER,12-10-2023 03:39,~,The Windflower Resorts and Spa Mysuru,"Nazarbad Mohalla, Mysore, Karnataka 570010",Unfounded
+1905364,ASSIST FIRE DEPT POLICE,12-02-2023 07:39,~,GRS Fantasy Park,"Yadavagiri, Mysuru, Karnataka 570005",Unfounded
+1905365,HURT,12-02-2023 08:39,~,Planet Earth Aquarium & Pet zoo,"Kuppedada, Karnataka 571606",Inactive
+1905366,ASSIST FIRE DEPT PLICE,12-02-2023 21:10,~,"Excel Public School, Koorgalli","Belwadi Post, Mysuru, Karnataka 570018",Inactive
+1905367,HURT,12-02-2023 22:59,~,BEML Administrative Building,"Hebbal, Mysore, Karnataka 571606",Inactive
+1905368,GREVIOUS HURT,12-02-2023 11:09,~,Hotel Garden City,"Bannimantap, Mysore, Karnataka 570015",Unfounded
+1905369,RIOTS,12-02-2023 10:01,~,Sharmada Hidden Nest Resort,"Vijayanagar, Mysore, Karnataka 570018",Clear by Warning
+1905370,KIDNAPPING,12-02-2023 10:29,~,"Apollo BGS Hospitals, Mysuru","Adichunchanagiri Road, Jayanagar, Kuvempu Nagara, Mysuru, Karnataka 570023",Closed
+1905371,SUSPICIOUS EVENT,12-02-2023 12:49,~,ISKCON Mysore,"NO.213, 18th Cross Rd, Jayanagar, Vivekananda Nagar, Mysuru, Karnataka 570014",Unfounded
+1905372,ATTEMPT TO MURDER,01-03-2023 23:45,~,Sri Bhramaramba Mallikarjunaswamy kalamantap,"No 8, Sriramapura 2nd Stage, near Vivekananda Circle, Mysuru, Karnataka 570023",Inactive
+1905373,TRAFFIC STOP,02-03-2023 21:15,~,Lingambudhi Park,"Ramakrishnanagar, Mysuru, Karnataka 570023",Inactive
+1905374,LOUD MUSIC,03-03-2023 21:30,~,A V HOSPITAL,"Siddartha Nagar, Mysore, Karnataka 570011",Inactive
+1905375,BATTERY,04-03-2023 06:39,~,Neelanjana Mahesh Prasad,"35/A, Vishwamanava Double Road, Block A, MUDA Employees Layout, Ramakrishnanagar, Mysuru, ",Inactive
+1905376,MURDER,05-03-2023 05:39,~,"Amrita Vishwa Vidyapeetham, Mysore Campus","Bogadi 2nd Stage, Karnataka 570026",Closed
+1905377,ASSIST FIRE DEPT PLICE,06-03-2023 04:39,~,Nexus Centre City,"Nazarbad Mohalla, Mysore, Karnataka 570010",Inactive
+1905347,SUSPICIOUS EVENT,04-02-2023 21:39,~,MYSORE PALACE,"Chamrajpura, Mysuru, Karnataka 570001",Inactive
+1905348,DRUG INCIDENT,05-02-2023 10:39,~,Sri Ganapathy Sachchidananda Ashrama,"JP Nagara, Mysuru, Karnataka 570025",Unfounded
+1905349,TRAFFIC STOP,06-02-2023 01:39,~,Sizzling Corner,"Kuvempu Nagara, Mysuru, Karnataka 570023",Clear by Warning
+1905350,DRUG INCIDENT,07-02-2023 02:39,~,Study Centre / Reading Room - IAS kannadiga,"Krishnamurthy Puram, Mysuru, Karnataka 570004",Closed
+1905351,ASSIST EMS POLICE,08-02-2023 13:39,~,"Government Hospital, TK layout","TK Layout, Mysuru, Karnataka 570009",Inactive
+1905352,VADALISM,09-02-2023 20:39,~,University Of Mysore Campus,"University Of Mysore Campus, Mysuru, Karnataka",Inactive
+1905353,ASSIST FIRE DEPT POLICE,10-02-2023 15:39,~,RAILWAY MUSEUM MYSURU,"Yadavagiri, Mysuru, Karnataka 570005",Closed
+1905354,MURDER,11-02-2023 23:39,~,Corner House - V.V Mohalla,"Vani Vilas Mohalla, Mysuru, Karnataka 570002",Unfounded
+1905355,ATTEMPT TO MURDER,12-02-2023 09:39,~,Jayadeva Hospital,"Gokulam 3rd Stage, Mysuru, Karnataka 570016",Unfounded
+1905356,DACOITY,12-03-2023 11:39,~,SUYOG HOSPITAL,"Ramakrishnanagar, Mysuru, Karnataka 570023",Inactive
+1905357,RIOTS,12-04-2023 12:39,~,"JSS MEDICAL COLLEGE, Mysore","Bannimantap, Mysuru, Karnataka 570007",Inactive
+1905358,LOUD MUSIC,12-05-2023 14:39,~,Grand Mercure Mysore,"Nelson Mandela Rd, Mysuru, Karnataka 570021",Inactive
+1905359,RIOTS,12-06-2023 16:39,~,Mysuru Racecourse Entrance MRC,"JC Nagar, Mysuru, Karnataka 570010",Closed
+1905360,ARSON,12-07-2023 17:39,~,Rmc market,"Bandipalya, Mysuru, Karnataka 571311",Unfounded
+1905361,KIDNAPPING,12-02-2023 19:39,~,Sri Chamundeshwari Temple,"Chamundeshwari Temple, Chamundi Hill, Mysuru, Karnataka 570010",Clear by Warning
+1905362,ABDUCTION,12-09-2023 19:39,~,Karnataka State Open University,"Muktha Gangothri, Mysuru, Karnataka 570006",Unfounded
+1905363,ATTEMPT TO MURDER,12-10-2023 03:39,~,The Windflower Resorts and Spa Mysuru,"Nazarbad Mohalla, Mysore, Karnataka 570010",Unfounded
+1905364,ASSIST FIRE DEPT POLICE,12-02-2023 07:39,~,GRS Fantasy Park,"Yadavagiri, Mysuru, Karnataka 570005",Unfounded
+1905365,HURT,12-02-2023 08:39,~,Planet Earth Aquarium & Pet zoo,"Kuppedada, Karnataka 571606",Inactive
+1905366,ASSIST FIRE DEPT PLICE,12-02-2023 21:10,~,"Excel Public School, Koorgalli","Belwadi Post, Mysuru, Karnataka 570018",Inactive
+1905367,HURT,12-02-2023 22:59,~,BEML Administrative Building,"Hebbal, Mysore, Karnataka 571606",Inactive
+1905368,GREVIOUS HURT,12-02-2023 11:09,~,Hotel Garden City,"Bannimantap, Mysore, Karnataka 570015",Unfounded
+1905369,RIOTS,12-02-2023 10:01,~,Sharmada Hidden Nest Resort,"Vijayanagar, Mysore, Karnataka 570018",Clear by Warning
+1905370,KIDNAPPING,12-02-2023 10:29,~,"Apollo BGS Hospitals, Mysuru","Adichunchanagiri Road, Jayanagar, Kuvempu Nagara, Mysuru, Karnataka 570023",Closed
+1905371,SUSPICIOUS EVENT,12-02-2023 12:49,~,ISKCON Mysore,"NO.213, 18th Cross Rd, Jayanagar, Vivekananda Nagar, Mysuru, Karnataka 570014",Unfounded
+1905372,ATTEMPT TO MURDER,01-03-2023 23:45,~,Sri Bhramaramba Mallikarjunaswamy kalamantap,"No 8, Sriramapura 2nd Stage, near Vivekananda Circle, Mysuru, Karnataka 570023",Inactive
+1905373,TRAFFIC STOP,02-03-2023 21:15,~,Lingambudhi Park,"Ramakrishnanagar, Mysuru, Karnataka 570023",Inactive
+1905374,LOUD MUSIC,03-03-2023 21:30,~,A V HOSPITAL,"Siddartha Nagar, Mysore, Karnataka 570011",Inactive
+1905375,BATTERY,04-03-2023 06:39,~,Neelanjana Mahesh Prasad,"35/A, Vishwamanava Double Road, Block A, MUDA Employees Layout, Ramakrishnanagar, Mysuru, ",Inactive
+1905376,MURDER,05-03-2023 05:39,~,"Amrita Vishwa Vidyapeetham, Mysore Campus","Bogadi 2nd Stage, Karnataka 570026",Closed
+1905377,ASSIST FIRE DEPT PLICE,06-03-2023 04:39,~,Nexus Centre City,"Nazarbad Mohalla, Mysore, Karnataka 570010",Inactive
+1905347,SUSPICIOUS EVENT,04-02-2023 21:39,~,MYSORE PALACE,"Chamrajpura, Mysuru, Karnataka 570001",Inactive
+1905348,DRUG INCIDENT,05-02-2023 10:39,~,Sri Ganapathy Sachchidananda Ashrama,"JP Nagara, Mysuru, Karnataka 570025",Unfounded
+1905349,TRAFFIC STOP,06-02-2023 01:39,~,Sizzling Corner,"Kuvempu Nagara, Mysuru, Karnataka 570023",Clear by Warning
+1905350,DRUG INCIDENT,07-02-2023 02:39,~,Study Centre / Reading Room - IAS kannadiga,"Krishnamurthy Puram, Mysuru, Karnataka 570004",Closed
+1905351,ASSIST EMS POLICE,08-02-2023 13:39,~,"Government Hospital, TK layout","TK Layout, Mysuru, Karnataka 570009",Inactive
+1905352,VADALISM,09-02-2023 20:39,~,University Of Mysore Campus,"University Of Mysore Campus, Mysuru, Karnataka",Inactive
+1905353,ASSIST FIRE DEPT POLICE,10-02-2023 15:39,~,RAILWAY MUSEUM MYSURU,"Yadavagiri, Mysuru, Karnataka 570005",Closed
+1905354,MURDER,11-02-2023 23:39,~,Corner House - V.V Mohalla,"Vani Vilas Mohalla, Mysuru, Karnataka 570002",Unfounded
+1905355,ATTEMPT TO MURDER,12-02-2023 09:39,~,Jayadeva Hospital,"Gokulam 3rd Stage, Mysuru, Karnataka 570016",Unfounded
+1905356,DACOITY,12-03-2023 11:39,~,SUYOG HOSPITAL,"Ramakrishnanagar, Mysuru, Karnataka 570023",Inactive
+1905357,RIOTS,12-04-2023 12:39,~,"JSS MEDICAL COLLEGE, Mysore","Bannimantap, Mysuru, Karnataka 570007",Inactive
+1905358,LOUD MUSIC,12-05-2023 14:39,~,Grand Mercure Mysore,"Nelson Mandela Rd, Mysuru, Karnataka 570021",Inactive
+1905359,RIOTS,12-06-2023 16:39,~,Mysuru Racecourse Entrance MRC,"JC Nagar, Mysuru, Karnataka 570010",Closed
+1905360,ARSON,12-07-2023 17:39,~,Rmc market,"Bandipalya, Mysuru, Karnataka 571311",Unfounded
+1905361,KIDNAPPING,12-02-2023 19:39,~,Sri Chamundeshwari Temple,"Chamundeshwari Temple, Chamundi Hill, Mysuru, Karnataka 570010",Clear by Warning
+1905362,ABDUCTION,12-09-2023 19:39,~,Karnataka State Open University,"Muktha Gangothri, Mysuru, Karnataka 570006",Unfounded
+1905363,ATTEMPT TO MURDER,12-10-2023 03:39,~,The Windflower Resorts and Spa Mysuru,"Nazarbad Mohalla, Mysore, Karnataka 570010",Unfounded
+1905364,ASSIST FIRE DEPT POLICE,12-02-2023 07:39,~,GRS Fantasy Park,"Yadavagiri, Mysuru, Karnataka 570005",Unfounded
+1905365,HURT,12-02-2023 08:39,~,Planet Earth Aquarium & Pet zoo,"Kuppedada, Karnataka 571606",Inactive
+1905366,ASSIST FIRE DEPT PLICE,12-02-2023 21:10,~,"Excel Public School, Koorgalli","Belwadi Post, Mysuru, Karnataka 570018",Inactive
+1905367,HURT,12-02-2023 22:59,~,BEML Administrative Building,"Hebbal, Mysore, Karnataka 571606",Inactive
+1905368,GREVIOUS HURT,12-02-2023 11:09,~,Hotel Garden City,"Bannimantap, Mysore, Karnataka 570015",Unfounded
+1905369,RIOTS,12-02-2023 10:01,~,Sharmada Hidden Nest Resort,"Vijayanagar, Mysore, Karnataka 570018",Clear by Warning
+1905370,KIDNAPPING,12-02-2023 10:29,~,"Apollo BGS Hospitals, Mysuru","Adichunchanagiri Road, Jayanagar, Kuvempu Nagara, Mysuru, Karnataka 570023",Closed
+1905371,SUSPICIOUS EVENT,12-02-2023 12:49,~,ISKCON Mysore,"NO.213, 18th Cross Rd, Jayanagar, Vivekananda Nagar, Mysuru, Karnataka 570014",Unfounded
+1905372,ATTEMPT TO MURDER,01-03-2023 23:45,~,Sri Bhramaramba Mallikarjunaswamy kalamantap,"No 8, Sriramapura 2nd Stage, near Vivekananda Circle, Mysuru, Karnataka 570023",Inactive
+1905373,TRAFFIC STOP,02-03-2023 21:15,~,Lingambudhi Park,"Ramakrishnanagar, Mysuru, Karnataka 570023",Inactive
+1905374,LOUD MUSIC,03-03-2023 21:30,~,A V HOSPITAL,"Siddartha Nagar, Mysore, Karnataka 570011",Inactive
+1905375,BATTERY,04-03-2023 06:39,~,Neelanjana Mahesh Prasad,"35/A, Vishwamanava Double Road, Block A, MUDA Employees Layout, Ramakrishnanagar, Mysuru, ",Inactive
+1905376,MURDER,05-03-2023 05:39,~,"Amrita Vishwa Vidyapeetham, Mysore Campus","Bogadi 2nd Stage, Karnataka 570026",Closed
+1905377,ASSIST FIRE DEPT PLICE,06-03-2023 04:39,~,Nexus Centre City,"Nazarbad Mohalla, Mysore, Karnataka 570010",Inactive
+1905347,SUSPICIOUS EVENT,04-02-2023 21:39,~,MYSORE PALACE,"Chamrajpura, Mysuru, Karnataka 570001",Inactive
+1905348,DRUG INCIDENT,05-02-2023 10:39,~,Sri Ganapathy Sachchidananda Ashrama,"JP Nagara, Mysuru, Karnataka 570025",Unfounded
+1905349,TRAFFIC STOP,06-02-2023 01:39,~,Sizzling Corner,"Kuvempu Nagara, Mysuru, Karnataka 570023",Clear by Warning
+1905350,DRUG INCIDENT,07-02-2023 02:39,~,Study Centre / Reading Room - IAS kannadiga,"Krishnamurthy Puram, Mysuru, Karnataka 570004",Closed
+1905351,ASSIST EMS POLICE,08-02-2023 13:39,~,"Government Hospital, TK layout","TK Layout, Mysuru, Karnataka 570009",Inactive
+1905352,VADALISM,09-02-2023 20:39,~,University Of Mysore Campus,"University Of Mysore Campus, Mysuru, Karnataka",Inactive
+1905353,ASSIST FIRE DEPT POLICE,10-02-2023 15:39,~,RAILWAY MUSEUM MYSURU,"Yadavagiri, Mysuru, Karnataka 570005",Closed
+1905354,MURDER,11-02-2023 23:39,~,Corner House - V.V Mohalla,"Vani Vilas Mohalla, Mysuru, Karnataka 570002",Unfounded
+1905355,ATTEMPT TO MURDER,12-02-2023 09:39,~,Jayadeva Hospital,"Gokulam 3rd Stage, Mysuru, Karnataka 570016",Unfounded
+1905356,DACOITY,12-03-2023 11:39,~,SUYOG HOSPITAL,"Ramakrishnanagar, Mysuru, Karnataka 570023",Inactive
+1905357,RIOTS,12-04-2023 12:39,~,"JSS MEDICAL COLLEGE, Mysore","Bannimantap, Mysuru, Karnataka 570007",Inactive
+1905358,LOUD MUSIC,12-05-2023 14:39,~,Grand Mercure Mysore,"Nelson Mandela Rd, Mysuru, Karnataka 570021",Inactive
+1905359,RIOTS,12-06-2023 16:39,~,Mysuru Racecourse Entrance MRC,"JC Nagar, Mysuru, Karnataka 570010",Closed
+1905360,ARSON,12-07-2023 17:39,~,Rmc market,"Bandipalya, Mysuru, Karnataka 571311",Unfounded
+1905361,KIDNAPPING,12-02-2023 19:39,~,Sri Chamundeshwari Temple,"Chamundeshwari Temple, Chamundi Hill, Mysuru, Karnataka 570010",Clear by Warning
+1905362,ABDUCTION,12-09-2023 19:39,~,Karnataka State Open University,"Muktha Gangothri, Mysuru, Karnataka 570006",Unfounded
+1905363,ATTEMPT TO MURDER,12-10-2023 03:39,~,The Windflower Resorts and Spa Mysuru,"Nazarbad Mohalla, Mysore, Karnataka 570010",Unfounded
+1905364,ASSIST FIRE DEPT POLICE,12-02-2023 07:39,~,GRS Fantasy Park,"Yadavagiri, Mysuru, Karnataka 570005",Unfounded
+1905365,HURT,12-02-2023 08:39,~,Planet Earth Aquarium & Pet zoo,"Kuppedada, Karnataka 571606",Inactive
+1905366,ASSIST FIRE DEPT PLICE,12-02-2023 21:10,~,"Excel Public School, Koorgalli","Belwadi Post, Mysuru, Karnataka 570018",Inactive
+1905367,HURT,12-02-2023 22:59,~,BEML Administrative Building,"Hebbal, Mysore, Karnataka 571606",Inactive
+1905368,GREVIOUS HURT,12-02-2023 11:09,~,Hotel Garden City,"Bannimantap, Mysore, Karnataka 570015",Unfounded
+1905369,RIOTS,12-02-2023 10:01,~,Sharmada Hidden Nest Resort,"Vijayanagar, Mysore, Karnataka 570018",Clear by Warning
+1905370,KIDNAPPING,12-02-2023 10:29,~,"Apollo BGS Hospitals, Mysuru","Adichunchanagiri Road, Jayanagar, Kuvempu Nagara, Mysuru, Karnataka 570023",Closed
+1905371,SUSPICIOUS EVENT,12-02-2023 12:49,~,ISKCON Mysore,"NO.213, 18th Cross Rd, Jayanagar, Vivekananda Nagar, Mysuru, Karnataka 570014",Unfounded
+1905372,ATTEMPT TO MURDER,01-03-2023 23:45,~,Sri Bhramaramba Mallikarjunaswamy kalamantap,"No 8, Sriramapura 2nd Stage, near Vivekananda Circle, Mysuru, Karnataka 570023",Inactive
+1905373,TRAFFIC STOP,02-03-2023 21:15,~,Lingambudhi Park,"Ramakrishnanagar, Mysuru, Karnataka 570023",Inactive
+1905374,LOUD MUSIC,03-03-2023 21:30,~,A V HOSPITAL,"Siddartha Nagar, Mysore, Karnataka 570011",Inactive
+1905375,BATTERY,04-03-2023 06:39,~,Neelanjana Mahesh Prasad,"35/A, Vishwamanava Double Road, Block A, MUDA Employees Layout, Ramakrishnanagar, Mysuru, ",Inactive
+1905376,MURDER,05-03-2023 05:39,~,"Amrita Vishwa Vidyapeetham, Mysore Campus","Bogadi 2nd Stage, Karnataka 570026",Closed
+1905377,ASSIST FIRE DEPT PLICE,06-03-2023 04:39,~,Nexus Centre City,"Nazarbad Mohalla, Mysore, Karnataka 570010",Inactive
+1905347,SUSPICIOUS EVENT,04-02-2023 21:39,~,MYSORE PALACE,"Chamrajpura, Mysuru, Karnataka 570001",Inactive
+1905348,DRUG INCIDENT,05-02-2023 10:39,~,Sri Ganapathy Sachchidananda Ashrama,"JP Nagara, Mysuru, Karnataka 570025",Unfounded
+1905349,TRAFFIC STOP,06-02-2023 01:39,~,Sizzling Corner,"Kuvempu Nagara, Mysuru, Karnataka 570023",Clear by Warning
+1905350,DRUG INCIDENT,07-02-2023 02:39,~,Study Centre / Reading Room - IAS kannadiga,"Krishnamurthy Puram, Mysuru, Karnataka 570004",Closed
+1905351,ASSIST EMS POLICE,08-02-2023 13:39,~,"Government Hospital, TK layout","TK Layout, Mysuru, Karnataka 570009",Inactive
+1905352,VADALISM,09-02-2023 20:39,~,University Of Mysore Campus,"University Of Mysore Campus, Mysuru, Karnataka",Inactive
+1905353,ASSIST FIRE DEPT POLICE,10-02-2023 15:39,~,RAILWAY MUSEUM MYSURU,"Yadavagiri, Mysuru, Karnataka 570005",Closed
+1905354,MURDER,11-02-2023 23:39,~,Corner House - V.V Mohalla,"Vani Vilas Mohalla, Mysuru, Karnataka 570002",Unfounded
+1905355,ATTEMPT TO MURDER,12-02-2023 09:39,~,Jayadeva Hospital,"Gokulam 3rd Stage, Mysuru, Karnataka 570016",Unfounded
+1905356,DACOITY,12-03-2023 11:39,~,SUYOG HOSPITAL,"Ramakrishnanagar, Mysuru, Karnataka 570023",Inactive
+1905357,RIOTS,12-04-2023 12:39,~,"JSS MEDICAL COLLEGE, Mysore","Bannimantap, Mysuru, Karnataka 570007",Inactive
+1905358,LOUD MUSIC,12-05-2023 14:39,~,Grand Mercure Mysore,"Nelson Mandela Rd, Mysuru, Karnataka 570021",Inactive
+1905359,RIOTS,12-06-2023 16:39,~,Mysuru Racecourse Entrance MRC,"JC Nagar, Mysuru, Karnataka 570010",Closed
+1905360,ARSON,12-07-2023 17:39,~,Rmc market,"Bandipalya, Mysuru, Karnataka 571311",Unfounded
+1905361,KIDNAPPING,12-02-2023 19:39,~,Sri Chamundeshwari Temple,"Chamundeshwari Temple, Chamundi Hill, Mysuru, Karnataka 570010",Clear by Warning
+1905362,ABDUCTION,12-09-2023 19:39,~,Karnataka State Open University,"Muktha Gangothri, Mysuru, Karnataka 570006",Unfounded
+1905363,ATTEMPT TO MURDER,12-10-2023 03:39,~,The Windflower Resorts and Spa Mysuru,"Nazarbad Mohalla, Mysore, Karnataka 570010",Unfounded
+1905364,ASSIST FIRE DEPT POLICE,12-02-2023 07:39,~,GRS Fantasy Park,"Yadavagiri, Mysuru, Karnataka 570005",Unfounded
+1905365,HURT,12-02-2023 08:39,~,Planet Earth Aquarium & Pet zoo,"Kuppedada, Karnataka 571606",Inactive
+1905366,ASSIST FIRE DEPT PLICE,12-02-2023 21:10,~,"Excel Public School, Koorgalli","Belwadi Post, Mysuru, Karnataka 570018",Inactive
+1905367,HURT,12-02-2023 22:59,~,BEML Administrative Building,"Hebbal, Mysore, Karnataka 571606",Inactive
+1905368,GREVIOUS HURT,12-02-2023 11:09,~,Hotel Garden City,"Bannimantap, Mysore, Karnataka 570015",Unfounded
+1905369,RIOTS,12-02-2023 10:01,~,Sharmada Hidden Nest Resort,"Vijayanagar, Mysore, Karnataka 570018",Clear by Warning
+1905370,KIDNAPPING,12-02-2023 10:29,~,"Apollo BGS Hospitals, Mysuru","Adichunchanagiri Road, Jayanagar, Kuvempu Nagara, Mysuru, Karnataka 570023",Closed
+1905371,SUSPICIOUS EVENT,12-02-2023 12:49,~,ISKCON Mysore,"NO.213, 18th Cross Rd, Jayanagar, Vivekananda Nagar, Mysuru, Karnataka 570014",Unfounded
+1905372,ATTEMPT TO MURDER,01-03-2023 23:45,~,Sri Bhramaramba Mallikarjunaswamy kalamantap,"No 8, Sriramapura 2nd Stage, near Vivekananda Circle, Mysuru, Karnataka 570023",Inactive
+1905373,TRAFFIC STOP,02-03-2023 21:15,~,Lingambudhi Park,"Ramakrishnanagar, Mysuru, Karnataka 570023",Inactive
+1905374,LOUD MUSIC,03-03-2023 21:30,~,A V HOSPITAL,"Siddartha Nagar, Mysore, Karnataka 570011",Inactive
+1905375,BATTERY,04-03-2023 06:39,~,Neelanjana Mahesh Prasad,"35/A, Vishwamanava Double Road, Block A, MUDA Employees Layout, Ramakrishnanagar, Mysuru, ",Inactive
+1905376,MURDER,05-03-2023 05:39,~,"Amrita Vishwa Vidyapeetham, Mysore Campus","Bogadi 2nd Stage, Karnataka 570026",Closed
+1905377,ASSIST FIRE DEPT PLICE,06-03-2023 04:39,~,Nexus Centre City,"Nazarbad Mohalla, Mysore, Karnataka 570010",Inactive
+1905347,SUSPICIOUS EVENT,04-02-2023 21:39,~,MYSORE PALACE,"Chamrajpura, Mysuru, Karnataka 570001",Inactive
+1905348,DRUG INCIDENT,05-02-2023 10:39,~,Sri Ganapathy Sachchidananda Ashrama,"JP Nagara, Mysuru, Karnataka 570025",Unfounded
+1905349,TRAFFIC STOP,06-02-2023 01:39,~,Sizzling Corner,"Kuvempu Nagara, Mysuru, Karnataka 570023",Clear by Warning
+1905350,DRUG INCIDENT,07-02-2023 02:39,~,Study Centre / Reading Room - IAS kannadiga,"Krishnamurthy Puram, Mysuru, Karnataka 570004",Closed
+1905351,ASSIST EMS POLICE,08-02-2023 13:39,~,"Government Hospital, TK layout","TK Layout, Mysuru, Karnataka 570009",Inactive
+1905352,VADALISM,09-02-2023 20:39,~,University Of Mysore Campus,"University Of Mysore Campus, Mysuru, Karnataka",Inactive
+1905353,ASSIST FIRE DEPT POLICE,10-02-2023 15:39,~,RAILWAY MUSEUM MYSURU,"Yadavagiri, Mysuru, Karnataka 570005",Closed
+1905354,MURDER,11-02-2023 23:39,~,Corner House - V.V Mohalla,"Vani Vilas Mohalla, Mysuru, Karnataka 570002",Unfounded
+1905355,ATTEMPT TO MURDER,12-02-2023 09:39,~,Jayadeva Hospital,"Gokulam 3rd Stage, Mysuru, Karnataka 570016",Unfounded
+1905356,DACOITY,12-03-2023 11:39,~,SUYOG HOSPITAL,"Ramakrishnanagar, Mysuru, Karnataka 570023",Inactive
+1905357,RIOTS,12-04-2023 12:39,~,"JSS MEDICAL COLLEGE, Mysore","Bannimantap, Mysuru, Karnataka 570007",Inactive
+1905358,LOUD MUSIC,12-05-2023 14:39,~,Grand Mercure Mysore,"Nelson Mandela Rd, Mysuru, Karnataka 570021",Inactive
+1905359,RIOTS,12-06-2023 16:39,~,Mysuru Racecourse Entrance MRC,"JC Nagar, Mysuru, Karnataka 570010",Closed
+1905360,ARSON,12-07-2023 17:39,~,Rmc market,"Bandipalya, Mysuru, Karnataka 571311",Unfounded
+1905361,KIDNAPPING,12-02-2023 19:39,~,Sri Chamundeshwari Temple,"Chamundeshwari Temple, Chamundi Hill, Mysuru, Karnataka 570010",Clear by Warning
+1905362,ABDUCTION,12-09-2023 19:39,~,Karnataka State Open University,"Muktha Gangothri, Mysuru, Karnataka 570006",Unfounded
+1905363,ATTEMPT TO MURDER,12-10-2023 03:39,~,The Windflower Resorts and Spa Mysuru,"Nazarbad Mohalla, Mysore, Karnataka 570010",Unfounded
+1905364,ASSIST FIRE DEPT POLICE,12-02-2023 07:39,~,GRS Fantasy Park,"Yadavagiri, Mysuru, Karnataka 570005",Unfounded
+1905365,HURT,12-02-2023 08:39,~,Planet Earth Aquarium & Pet zoo,"Kuppedada, Karnataka 571606",Inactive
+1905366,ASSIST FIRE DEPT PLICE,12-02-2023 21:10,~,"Excel Public School, Koorgalli","Belwadi Post, Mysuru, Karnataka 570018",Inactive
+1905367,HURT,12-02-2023 22:59,~,BEML Administrative Building,"Hebbal, Mysore, Karnataka 571606",Inactive
+1905368,GREVIOUS HURT,12-02-2023 11:09,~,Hotel Garden City,"Bannimantap, Mysore, Karnataka 570015",Unfounded
+1905369,RIOTS,12-02-2023 10:01,~,Sharmada Hidden Nest Resort,"Vijayanagar, Mysore, Karnataka 570018",Clear by Warning
+1905370,KIDNAPPING,12-02-2023 10:29,~,"Apollo BGS Hospitals, Mysuru","Adichunchanagiri Road, Jayanagar, Kuvempu Nagara, Mysuru, Karnataka 570023",Closed
+1905371,SUSPICIOUS EVENT,12-02-2023 12:49,~,ISKCON Mysore,"NO.213, 18th Cross Rd, Jayanagar, Vivekananda Nagar, Mysuru, Karnataka 570014",Unfounded
+1905372,ATTEMPT TO MURDER,01-03-2023 23:45,~,Sri Bhramaramba Mallikarjunaswamy kalamantap,"No 8, Sriramapura 2nd Stage, near Vivekananda Circle, Mysuru, Karnataka 570023",Inactive
+1905373,TRAFFIC STOP,02-03-2023 21:15,~,Lingambudhi Park,"Ramakrishnanagar, Mysuru, Karnataka 570023",Inactive
+1905374,LOUD MUSIC,03-03-2023 21:30,~,A V HOSPITAL,"Siddartha Nagar, Mysore, Karnataka 570011",Inactive
+1905375,BATTERY,04-03-2023 06:39,~,Neelanjana Mahesh Prasad,"35/A, Vishwamanava Double Road, Block A, MUDA Employees Layout, Ramakrishnanagar, Mysuru, ",Inactive
+1905376,MURDER,05-03-2023 05:39,~,"Amrita Vishwa Vidyapeetham, Mysore Campus","Bogadi 2nd Stage, Karnataka 570026",Closed
+1905377,ASSIST FIRE DEPT PLICE,06-03-2023 04:39,~,Nexus Centre City,"Nazarbad Mohalla, Mysore, Karnataka 570010",Inactive
+1905347,SUSPICIOUS EVENT,04-02-2023 21:39,~,MYSORE PALACE,"Chamrajpura, Mysuru, Karnataka 570001",Inactive
+1905348,DRUG INCIDENT,05-02-2023 10:39,~,Sri Ganapathy Sachchidananda Ashrama,"JP Nagara, Mysuru, Karnataka 570025",Unfounded
+1905349,TRAFFIC STOP,06-02-2023 01:39,~,Sizzling Corner,"Kuvempu Nagara, Mysuru, Karnataka 570023",Clear by Warning
+1905350,DRUG INCIDENT,07-02-2023 02:39,~,Study Centre / Reading Room - IAS kannadiga,"Krishnamurthy Puram, Mysuru, Karnataka 570004",Closed
+1905351,ASSIST EMS POLICE,08-02-2023 13:39,~,"Government Hospital, TK layout","TK Layout, Mysuru, Karnataka 570009",Inactive
+1905352,VADALISM,09-02-2023 20:39,~,University Of Mysore Campus,"University Of Mysore Campus, Mysuru, Karnataka",Inactive
+1905353,ASSIST FIRE DEPT POLICE,10-02-2023 15:39,~,RAILWAY MUSEUM MYSURU,"Yadavagiri, Mysuru, Karnataka 570005",Closed
+1905354,MURDER,11-02-2023 23:39,~,Corner House - V.V Mohalla,"Vani Vilas Mohalla, Mysuru, Karnataka 570002",Unfounded
+1905355,ATTEMPT TO MURDER,12-02-2023 09:39,~,Jayadeva Hospital,"Gokulam 3rd Stage, Mysuru, Karnataka 570016",Unfounded
+1905356,DACOITY,12-03-2023 11:39,~,SUYOG HOSPITAL,"Ramakrishnanagar, Mysuru, Karnataka 570023",Inactive
+1905357,RIOTS,12-04-2023 12:39,~,"JSS MEDICAL COLLEGE, Mysore","Bannimantap, Mysuru, Karnataka 570007",Inactive
+1905358,LOUD MUSIC,12-05-2023 14:39,~,Grand Mercure Mysore,"Nelson Mandela Rd, Mysuru, Karnataka 570021",Inactive
+1905359,RIOTS,12-06-2023 16:39,~,Mysuru Racecourse Entrance MRC,"JC Nagar, Mysuru, Karnataka 570010",Closed
+1905360,ARSON,12-07-2023 17:39,~,Rmc market,"Bandipalya, Mysuru, Karnataka 571311",Unfounded
+1905361,KIDNAPPING,12-02-2023 19:39,~,Sri Chamundeshwari Temple,"Chamundeshwari Temple, Chamundi Hill, Mysuru, Karnataka 570010",Clear by Warning
+1905362,ABDUCTION,12-09-2023 19:39,~,Karnataka State Open University,"Muktha Gangothri, Mysuru, Karnataka 570006",Unfounded
+1905363,ATTEMPT TO MURDER,12-10-2023 03:39,~,The Windflower Resorts and Spa Mysuru,"Nazarbad Mohalla, Mysore, Karnataka 570010",Unfounded
+1905364,ASSIST FIRE DEPT POLICE,12-02-2023 07:39,~,GRS Fantasy Park,"Yadavagiri, Mysuru, Karnataka 570005",Unfounded
+1905365,HURT,12-02-2023 08:39,~,Planet Earth Aquarium & Pet zoo,"Kuppedada, Karnataka 571606",Inactive
+1905366,ASSIST FIRE DEPT PLICE,12-02-2023 21:10,~,"Excel Public School, Koorgalli","Belwadi Post, Mysuru, Karnataka 570018",Inactive
+1905367,HURT,12-02-2023 22:59,~,BEML Administrative Building,"Hebbal, Mysore, Karnataka 571606",Inactive
+1905368,GREVIOUS HURT,12-02-2023 11:09,~,Hotel Garden City,"Bannimantap, Mysore, Karnataka 570015",Unfounded
+1905369,RIOTS,12-02-2023 10:01,~,Sharmada Hidden Nest Resort,"Vijayanagar, Mysore, Karnataka 570018",Clear by Warning
+1905370,KIDNAPPING,12-02-2023 10:29,~,"Apollo BGS Hospitals, Mysuru","Adichunchanagiri Road, Jayanagar, Kuvempu Nagara, Mysuru, Karnataka 570023",Closed
+1905371,SUSPICIOUS EVENT,12-02-2023 12:49,~,ISKCON Mysore,"NO.213, 18th Cross Rd, Jayanagar, Vivekananda Nagar, Mysuru, Karnataka 570014",Unfounded
+1905372,ATTEMPT TO MURDER,01-03-2023 23:45,~,Sri Bhramaramba Mallikarjunaswamy kalamantap,"No 8, Sriramapura 2nd Stage, near Vivekananda Circle, Mysuru, Karnataka 570023",Inactive
+1905373,TRAFFIC STOP,02-03-2023 21:15,~,Lingambudhi Park,"Ramakrishnanagar, Mysuru, Karnataka 570023",Inactive
+1905374,LOUD MUSIC,03-03-2023 21:30,~,A V HOSPITAL,"Siddartha Nagar, Mysore, Karnataka 570011",Inactive
+1905375,BATTERY,04-03-2023 06:39,~,Neelanjana Mahesh Prasad,"35/A, Vishwamanava Double Road, Block A, MUDA Employees Layout, Ramakrishnanagar, Mysuru, ",Inactive
+1905376,MURDER,05-03-2023 05:39,~,"Amrita Vishwa Vidyapeetham, Mysore Campus","Bogadi 2nd Stage, Karnataka 570026",Closed
+1905377,ASSIST FIRE DEPT PLICE,06-03-2023 04:39,~,Nexus Centre City,"Nazarbad Mohalla, Mysore, Karnataka 570010",Inactive
+1905347,SUSPICIOUS EVENT,04-02-2023 21:39,~,MYSORE PALACE,"Chamrajpura, Mysuru, Karnataka 570001",Inactive
+1905348,DRUG INCIDENT,05-02-2023 10:39,~,Sri Ganapathy Sachchidananda Ashrama,"JP Nagara, Mysuru, Karnataka 570025",Unfounded
+1905349,TRAFFIC STOP,06-02-2023 01:39,~,Sizzling Corner,"Kuvempu Nagara, Mysuru, Karnataka 570023",Clear by Warning
+1905350,DRUG INCIDENT,07-02-2023 02:39,~,Study Centre / Reading Room - IAS kannadiga,"Krishnamurthy Puram, Mysuru, Karnataka 570004",Closed
+1905351,ASSIST EMS POLICE,08-02-2023 13:39,~,"Government Hospital, TK layout","TK Layout, Mysuru, Karnataka 570009",Inactive
+1905352,VADALISM,09-02-2023 20:39,~,University Of Mysore Campus,"University Of Mysore Campus, Mysuru, Karnataka",Inactive
+1905353,ASSIST FIRE DEPT POLICE,10-02-2023 15:39,~,RAILWAY MUSEUM MYSURU,"Yadavagiri, Mysuru, Karnataka 570005",Closed
+1905354,MURDER,11-02-2023 23:39,~,Corner House - V.V Mohalla,"Vani Vilas Mohalla, Mysuru, Karnataka 570002",Unfounded
+1905355,ATTEMPT TO MURDER,12-02-2023 09:39,~,Jayadeva Hospital,"Gokulam 3rd Stage, Mysuru, Karnataka 570016",Unfounded
+1905356,DACOITY,12-03-2023 11:39,~,SUYOG HOSPITAL,"Ramakrishnanagar, Mysuru, Karnataka 570023",Inactive
+1905357,RIOTS,12-04-2023 12:39,~,"JSS MEDICAL COLLEGE, Mysore","Bannimantap, Mysuru, Karnataka 570007",Inactive
+1905358,LOUD MUSIC,12-05-2023 14:39,~,Grand Mercure Mysore,"Nelson Mandela Rd, Mysuru, Karnataka 570021",Inactive
+1905359,RIOTS,12-06-2023 16:39,~,Mysuru Racecourse Entrance MRC,"JC Nagar, Mysuru, Karnataka 570010",Closed
+1905360,ARSON,12-07-2023 17:39,~,Rmc market,"Bandipalya, Mysuru, Karnataka 571311",Unfounded
+1905361,KIDNAPPING,12-02-2023 19:39,~,Sri Chamundeshwari Temple,"Chamundeshwari Temple, Chamundi Hill, Mysuru, Karnataka 570010",Clear by Warning
+1905362,ABDUCTION,12-09-2023 19:39,~,Karnataka State Open University,"Muktha Gangothri, Mysuru, Karnataka 570006",Unfounded
+1905363,ATTEMPT TO MURDER,12-10-2023 03:39,~,The Windflower Resorts and Spa Mysuru,"Nazarbad Mohalla, Mysore, Karnataka 570010",Unfounded
+1905364,ASSIST FIRE DEPT POLICE,12-02-2023 07:39,~,GRS Fantasy Park,"Yadavagiri, Mysuru, Karnataka 570005",Unfounded
+1905365,HURT,12-02-2023 08:39,~,Planet Earth Aquarium & Pet zoo,"Kuppedada, Karnataka 571606",Inactive
+1905366,ASSIST FIRE DEPT PLICE,12-02-2023 21:10,~,"Excel Public School, Koorgalli","Belwadi Post, Mysuru, Karnataka 570018",Inactive
+1905367,HURT,12-02-2023 22:59,~,BEML Administrative Building,"Hebbal, Mysore, Karnataka 571606",Inactive
+1905368,GREVIOUS HURT,12-02-2023 11:09,~,Hotel Garden City,"Bannimantap, Mysore, Karnataka 570015",Unfounded
+1905369,RIOTS,12-02-2023 10:01,~,Sharmada Hidden Nest Resort,"Vijayanagar, Mysore, Karnataka 570018",Clear by Warning
+1905370,KIDNAPPING,12-02-2023 10:29,~,"Apollo BGS Hospitals, Mysuru","Adichunchanagiri Road, Jayanagar, Kuvempu Nagara, Mysuru, Karnataka 570023",Closed
+1905371,SUSPICIOUS EVENT,12-02-2023 12:49,~,ISKCON Mysore,"NO.213, 18th Cross Rd, Jayanagar, Vivekananda Nagar, Mysuru, Karnataka 570014",Unfounded
+1905372,ATTEMPT TO MURDER,01-03-2023 23:45,~,Sri Bhramaramba Mallikarjunaswamy kalamantap,"No 8, Sriramapura 2nd Stage, near Vivekananda Circle, Mysuru, Karnataka 570023",Inactive
+1905373,TRAFFIC STOP,02-03-2023 21:15,~,Lingambudhi Park,"Ramakrishnanagar, Mysuru, Karnataka 570023",Inactive
+1905374,LOUD MUSIC,03-03-2023 21:30,~,A V HOSPITAL,"Siddartha Nagar, Mysore, Karnataka 570011",Inactive
+1905375,BATTERY,04-03-2023 06:39,~,Neelanjana Mahesh Prasad,"35/A, Vishwamanava Double Road, Block A, MUDA Employees Layout, Ramakrishnanagar, Mysuru, ",Inactive
+1905376,MURDER,05-03-2023 05:39,~,"Amrita Vishwa Vidyapeetham, Mysore Campus","Bogadi 2nd Stage, Karnataka 570026",Closed
+1905377,ASSIST FIRE DEPT PLICE,06-03-2023 04:39,~,Nexus Centre City,"Nazarbad Mohalla, Mysore, Karnataka 570010",Inactive
+1905347,SUSPICIOUS EVENT,04-02-2023 21:39,~,MYSORE PALACE,"Chamrajpura, Mysuru, Karnataka 570001",Inactive
+1905348,DRUG INCIDENT,05-02-2023 10:39,~,Sri Ganapathy Sachchidananda Ashrama,"JP Nagara, Mysuru, Karnataka 570025",Unfounded
+1905349,TRAFFIC STOP,06-02-2023 01:39,~,Sizzling Corner,"Kuvempu Nagara, Mysuru, Karnataka 570023",Clear by Warning
+1905350,DRUG INCIDENT,07-02-2023 02:39,~,Study Centre / Reading Room - IAS kannadiga,"Krishnamurthy Puram, Mysuru, Karnataka 570004",Closed
+1905351,ASSIST EMS POLICE,08-02-2023 13:39,~,"Government Hospital, TK layout","TK Layout, Mysuru, Karnataka 570009",Inactive
+1905352,VADALISM,09-02-2023 20:39,~,University Of Mysore Campus,"University Of Mysore Campus, Mysuru, Karnataka",Inactive
+1905353,ASSIST FIRE DEPT POLICE,10-02-2023 15:39,~,RAILWAY MUSEUM MYSURU,"Yadavagiri, Mysuru, Karnataka 570005",Closed
+1905354,MURDER,11-02-2023 23:39,~,Corner House - V.V Mohalla,"Vani Vilas Mohalla, Mysuru, Karnataka 570002",Unfounded
+1905355,ATTEMPT TO MURDER,12-02-2023 09:39,~,Jayadeva Hospital,"Gokulam 3rd Stage, Mysuru, Karnataka 570016",Unfounded
+1905356,DACOITY,12-03-2023 11:39,~,SUYOG HOSPITAL,"Ramakrishnanagar, Mysuru, Karnataka 570023",Inactive
+1905357,RIOTS,12-04-2023 12:39,~,"JSS MEDICAL COLLEGE, Mysore","Bannimantap, Mysuru, Karnataka 570007",Inactive
+1905358,LOUD MUSIC,12-05-2023 14:39,~,Grand Mercure Mysore,"Nelson Mandela Rd, Mysuru, Karnataka 570021",Inactive
+1905359,RIOTS,12-06-2023 16:39,~,Mysuru Racecourse Entrance MRC,"JC Nagar, Mysuru, Karnataka 570010",Closed
+1905360,ARSON,12-07-2023 17:39,~,Rmc market,"Bandipalya, Mysuru, Karnataka 571311",Unfounded
+1905361,KIDNAPPING,12-02-2023 19:39,~,Sri Chamundeshwari Temple,"Chamundeshwari Temple, Chamundi Hill, Mysuru, Karnataka 570010",Clear by Warning
+1905362,ABDUCTION,12-09-2023 19:39,~,Karnataka State Open University,"Muktha Gangothri, Mysuru, Karnataka 570006",Unfounded
+1905363,ATTEMPT TO MURDER,12-10-2023 03:39,~,The Windflower Resorts and Spa Mysuru,"Nazarbad Mohalla, Mysore, Karnataka 570010",Unfounded
+1905364,ASSIST FIRE DEPT POLICE,12-02-2023 07:39,~,GRS Fantasy Park,"Yadavagiri, Mysuru, Karnataka 570005",Unfounded
+1905365,HURT,12-02-2023 08:39,~,Planet Earth Aquarium & Pet zoo,"Kuppedada, Karnataka 571606",Inactive
+1905366,ASSIST FIRE DEPT PLICE,12-02-2023 21:10,~,"Excel Public School, Koorgalli","Belwadi Post, Mysuru, Karnataka 570018",Inactive
+1905367,HURT,12-02-2023 22:59,~,BEML Administrative Building,"Hebbal, Mysore, Karnataka 571606",Inactive
+1905368,GREVIOUS HURT,12-02-2023 11:09,~,Hotel Garden City,"Bannimantap, Mysore, Karnataka 570015",Unfounded
+1905369,RIOTS,12-02-2023 10:01,~,Sharmada Hidden Nest Resort,"Vijayanagar, Mysore, Karnataka 570018",Clear by Warning
+1905370,KIDNAPPING,12-02-2023 10:29,~,"Apollo BGS Hospitals, Mysuru","Adichunchanagiri Road, Jayanagar, Kuvempu Nagara, Mysuru, Karnataka 570023",Closed
+1905371,SUSPICIOUS EVENT,12-02-2023 12:49,~,ISKCON Mysore,"NO.213, 18th Cross Rd, Jayanagar, Vivekananda Nagar, Mysuru, Karnataka 570014",Unfounded
+1905372,ATTEMPT TO MURDER,01-03-2023 23:45,~,Sri Bhramaramba Mallikarjunaswamy kalamantap,"No 8, Sriramapura 2nd Stage, near Vivekananda Circle, Mysuru, Karnataka 570023",Inactive
+1905373,TRAFFIC STOP,02-03-2023 21:15,~,Lingambudhi Park,"Ramakrishnanagar, Mysuru, Karnataka 570023",Inactive
+1905374,LOUD MUSIC,03-03-2023 21:30,~,A V HOSPITAL,"Siddartha Nagar, Mysore, Karnataka 570011",Inactive
+1905375,BATTERY,04-03-2023 06:39,~,Neelanjana Mahesh Prasad,"35/A, Vishwamanava Double Road, Block A, MUDA Employees Layout, Ramakrishnanagar, Mysuru, ",Inactive
+1905376,MURDER,05-03-2023 05:39,~,"Amrita Vishwa Vidyapeetham, Mysore Campus","Bogadi 2nd Stage, Karnataka 570026",Closed
+1905377,ASSIST FIRE DEPT PLICE,06-03-2023 04:39,~,Nexus Centre City,"Nazarbad Mohalla, Mysore, Karnataka 570010",Inactive
+1905347,SUSPICIOUS EVENT,04-02-2023 21:39,~,MYSORE PALACE,"Chamrajpura, Mysuru, Karnataka 570001",Inactive
+1905348,DRUG INCIDENT,05-02-2023 10:39,~,Sri Ganapathy Sachchidananda Ashrama,"JP Nagara, Mysuru, Karnataka 570025",Unfounded
+1905349,TRAFFIC STOP,06-02-2023 01:39,~,Sizzling Corner,"Kuvempu Nagara, Mysuru, Karnataka 570023",Clear by Warning
+1905350,DRUG INCIDENT,07-02-2023 02:39,~,Study Centre / Reading Room - IAS kannadiga,"Krishnamurthy Puram, Mysuru, Karnataka 570004",Closed
+1905351,ASSIST EMS POLICE,08-02-2023 13:39,~,"Government Hospital, TK layout","TK Layout, Mysuru, Karnataka 570009",Inactive
+1905352,VADALISM,09-02-2023 20:39,~,University Of Mysore Campus,"University Of Mysore Campus, Mysuru, Karnataka",Inactive
+1905353,ASSIST FIRE DEPT POLICE,10-02-2023 15:39,~,RAILWAY MUSEUM MYSURU,"Yadavagiri, Mysuru, Karnataka 570005",Closed
+1905354,MURDER,11-02-2023 23:39,~,Corner House - V.V Mohalla,"Vani Vilas Mohalla, Mysuru, Karnataka 570002",Unfounded
+1905355,ATTEMPT TO MURDER,12-02-2023 09:39,~,Jayadeva Hospital,"Gokulam 3rd Stage, Mysuru, Karnataka 570016",Unfounded
+1905356,DACOITY,12-03-2023 11:39,~,SUYOG HOSPITAL,"Ramakrishnanagar, Mysuru, Karnataka 570023",Inactive
+1905357,RIOTS,12-04-2023 12:39,~,"JSS MEDICAL COLLEGE, Mysore","Bannimantap, Mysuru, Karnataka 570007",Inactive
+1905358,LOUD MUSIC,12-05-2023 14:39,~,Grand Mercure Mysore,"Nelson Mandela Rd, Mysuru, Karnataka 570021",Inactive
+1905359,RIOTS,12-06-2023 16:39,~,Mysuru Racecourse Entrance MRC,"JC Nagar, Mysuru, Karnataka 570010",Closed
+1905360,ARSON,12-07-2023 17:39,~,Rmc market,"Bandipalya, Mysuru, Karnataka 571311",Unfounded
+1905361,KIDNAPPING,12-02-2023 19:39,~,Sri Chamundeshwari Temple,"Chamundeshwari Temple, Chamundi Hill, Mysuru, Karnataka 570010",Clear by Warning
+1905362,ABDUCTION,12-09-2023 19:39,~,Karnataka State Open University,"Muktha Gangothri, Mysuru, Karnataka 570006",Unfounded
+1905363,ATTEMPT TO MURDER,12-10-2023 03:39,~,The Windflower Resorts and Spa Mysuru,"Nazarbad Mohalla, Mysore, Karnataka 570010",Unfounded
+1905364,ASSIST FIRE DEPT POLICE,12-02-2023 07:39,~,GRS Fantasy Park,"Yadavagiri, Mysuru, Karnataka 570005",Unfounded
+1905365,HURT,12-02-2023 08:39,~,Planet Earth Aquarium & Pet zoo,"Kuppedada, Karnataka 571606",Inactive
+1905366,ASSIST FIRE DEPT PLICE,12-02-2023 21:10,~,"Excel Public School, Koorgalli","Belwadi Post, Mysuru, Karnataka 570018",Inactive
+1905367,HURT,12-02-2023 22:59,~,BEML Administrative Building,"Hebbal, Mysore, Karnataka 571606",Inactive
+1905368,GREVIOUS HURT,12-02-2023 11:09,~,Hotel Garden City,"Bannimantap, Mysore, Karnataka 570015",Unfounded
+1905369,RIOTS,12-02-2023 10:01,~,Sharmada Hidden Nest Resort,"Vijayanagar, Mysore, Karnataka 570018",Clear by Warning
+1905370,KIDNAPPING,12-02-2023 10:29,~,"Apollo BGS Hospitals, Mysuru","Adichunchanagiri Road, Jayanagar, Kuvempu Nagara, Mysuru, Karnataka 570023",Closed
+1905371,SUSPICIOUS EVENT,12-02-2023 12:49,~,ISKCON Mysore,"NO.213, 18th Cross Rd, Jayanagar, Vivekananda Nagar, Mysuru, Karnataka 570014",Unfounded
+1905372,ATTEMPT TO MURDER,01-03-2023 23:45,~,Sri Bhramaramba Mallikarjunaswamy kalamantap,"No 8, Sriramapura 2nd Stage, near Vivekananda Circle, Mysuru, Karnataka 570023",Inactive
+1905373,TRAFFIC STOP,02-03-2023 21:15,~,Lingambudhi Park,"Ramakrishnanagar, Mysuru, Karnataka 570023",Inactive
+1905374,LOUD MUSIC,03-03-2023 21:30,~,A V HOSPITAL,"Siddartha Nagar, Mysore, Karnataka 570011",Inactive
+1905375,BATTERY,04-03-2023 06:39,~,Neelanjana Mahesh Prasad,"35/A, Vishwamanava Double Road, Block A, MUDA Employees Layout, Ramakrishnanagar, Mysuru, ",Inactive
+1905376,MURDER,05-03-2023 05:39,~,"Amrita Vishwa Vidyapeetham, Mysore Campus","Bogadi 2nd Stage, Karnataka 570026",Closed
+1905377,ASSIST FIRE DEPT PLICE,06-03-2023 04:39,~,Nexus Centre City,"Nazarbad Mohalla, Mysore, Karnataka 570010",Inactive
+1905347,SUSPICIOUS EVENT,04-02-2023 21:39,~,MYSORE PALACE,"Chamrajpura, Mysuru, Karnataka 570001",Inactive
+1905348,DRUG INCIDENT,05-02-2023 10:39,~,Sri Ganapathy Sachchidananda Ashrama,"JP Nagara, Mysuru, Karnataka 570025",Unfounded
+1905349,TRAFFIC STOP,06-02-2023 01:39,~,Sizzling Corner,"Kuvempu Nagara, Mysuru, Karnataka 570023",Clear by Warning
+1905350,DRUG INCIDENT,07-02-2023 02:39,~,Study Centre / Reading Room - IAS kannadiga,"Krishnamurthy Puram, Mysuru, Karnataka 570004",Closed
+1905351,ASSIST EMS POLICE,08-02-2023 13:39,~,"Government Hospital, TK layout","TK Layout, Mysuru, Karnataka 570009",Inactive
+1905352,VADALISM,09-02-2023 20:39,~,University Of Mysore Campus,"University Of Mysore Campus, Mysuru, Karnataka",Inactive
+1905353,ASSIST FIRE DEPT POLICE,10-02-2023 15:39,~,RAILWAY MUSEUM MYSURU,"Yadavagiri, Mysuru, Karnataka 570005",Closed
+1905354,MURDER,11-02-2023 23:39,~,Corner House - V.V Mohalla,"Vani Vilas Mohalla, Mysuru, Karnataka 570002",Unfounded
+1905355,ATTEMPT TO MURDER,12-02-2023 09:39,~,Jayadeva Hospital,"Gokulam 3rd Stage, Mysuru, Karnataka 570016",Unfounded
+1905356,DACOITY,12-03-2023 11:39,~,SUYOG HOSPITAL,"Ramakrishnanagar, Mysuru, Karnataka 570023",Inactive
+1905357,RIOTS,12-04-2023 12:39,~,"JSS MEDICAL COLLEGE, Mysore","Bannimantap, Mysuru, Karnataka 570007",Inactive
+1905358,LOUD MUSIC,12-05-2023 14:39,~,Grand Mercure Mysore,"Nelson Mandela Rd, Mysuru, Karnataka 570021",Inactive
+1905359,RIOTS,12-06-2023 16:39,~,Mysuru Racecourse Entrance MRC,"JC Nagar, Mysuru, Karnataka 570010",Closed
+1905360,ARSON,12-07-2023 17:39,~,Rmc market,"Bandipalya, Mysuru, Karnataka 571311",Unfounded
+1905361,KIDNAPPING,12-02-2023 19:39,~,Sri Chamundeshwari Temple,"Chamundeshwari Temple, Chamundi Hill, Mysuru, Karnataka 570010",Clear by Warning
+1905362,ABDUCTION,12-09-2023 19:39,~,Karnataka State Open University,"Muktha Gangothri, Mysuru, Karnataka 570006",Unfounded
+1905363,ATTEMPT TO MURDER,12-10-2023 03:39,~,The Windflower Resorts and Spa Mysuru,"Nazarbad Mohalla, Mysore, Karnataka 570010",Unfounded
+1905364,ASSIST FIRE DEPT POLICE,12-02-2023 07:39,~,GRS Fantasy Park,"Yadavagiri, Mysuru, Karnataka 570005",Unfounded
+1905365,HURT,12-02-2023 08:39,~,Planet Earth Aquarium & Pet zoo,"Kuppedada, Karnataka 571606",Inactive
+1905366,ASSIST FIRE DEPT PLICE,12-02-2023 21:10,~,"Excel Public School, Koorgalli","Belwadi Post, Mysuru, Karnataka 570018",Inactive
+1905367,HURT,12-02-2023 22:59,~,BEML Administrative Building,"Hebbal, Mysore, Karnataka 571606",Inactive
+1905368,GREVIOUS HURT,12-02-2023 11:09,~,Hotel Garden City,"Bannimantap, Mysore, Karnataka 570015",Unfounded
+1905369,RIOTS,12-02-2023 10:01,~,Sharmada Hidden Nest Resort,"Vijayanagar, Mysore, Karnataka 570018",Clear by Warning
+1905370,KIDNAPPING,12-02-2023 10:29,~,"Apollo BGS Hospitals, Mysuru","Adichunchanagiri Road, Jayanagar, Kuvempu Nagara, Mysuru, Karnataka 570023",Closed
+1905371,SUSPICIOUS EVENT,12-02-2023 12:49,~,ISKCON Mysore,"NO.213, 18th Cross Rd, Jayanagar, Vivekananda Nagar, Mysuru, Karnataka 570014",Unfounded
+1905372,ATTEMPT TO MURDER,01-03-2023 23:45,~,Sri Bhramaramba Mallikarjunaswamy kalamantap,"No 8, Sriramapura 2nd Stage, near Vivekananda Circle, Mysuru, Karnataka 570023",Inactive
+1905373,TRAFFIC STOP,02-03-2023 21:15,~,Lingambudhi Park,"Ramakrishnanagar, Mysuru, Karnataka 570023",Inactive
+1905374,LOUD MUSIC,03-03-2023 21:30,~,A V HOSPITAL,"Siddartha Nagar, Mysore, Karnataka 570011",Inactive
+1905375,BATTERY,04-03-2023 06:39,~,Neelanjana Mahesh Prasad,"35/A, Vishwamanava Double Road, Block A, MUDA Employees Layout, Ramakrishnanagar, Mysuru, ",Inactive
+1905376,MURDER,05-03-2023 05:39,~,"Amrita Vishwa Vidyapeetham, Mysore Campus","Bogadi 2nd Stage, Karnataka 570026",Closed
+1905377,ASSIST FIRE DEPT PLICE,06-03-2023 04:39,~,Nexus Centre City,"Nazarbad Mohalla, Mysore, Karnataka 570010",Inactive
+1905347,SUSPICIOUS EVENT,04-02-2023 21:39,~,MYSORE PALACE,"Chamrajpura, Mysuru, Karnataka 570001",Inactive
+1905348,DRUG INCIDENT,05-02-2023 10:39,~,Sri Ganapathy Sachchidananda Ashrama,"JP Nagara, Mysuru, Karnataka 570025",Unfounded
+1905349,TRAFFIC STOP,06-02-2023 01:39,~,Sizzling Corner,"Kuvempu Nagara, Mysuru, Karnataka 570023",Clear by Warning
+1905350,DRUG INCIDENT,07-02-2023 02:39,~,Study Centre / Reading Room - IAS kannadiga,"Krishnamurthy Puram, Mysuru, Karnataka 570004",Closed
+1905351,ASSIST EMS POLICE,08-02-2023 13:39,~,"Government Hospital, TK layout","TK Layout, Mysuru, Karnataka 570009",Inactive
+1905352,VADALISM,09-02-2023 20:39,~,University Of Mysore Campus,"University Of Mysore Campus, Mysuru, Karnataka",Inactive
+1905353,ASSIST FIRE DEPT POLICE,10-02-2023 15:39,~,RAILWAY MUSEUM MYSURU,"Yadavagiri, Mysuru, Karnataka 570005",Closed
+1905354,MURDER,11-02-2023 23:39,~,Corner House - V.V Mohalla,"Vani Vilas Mohalla, Mysuru, Karnataka 570002",Unfounded
+1905355,ATTEMPT TO MURDER,12-02-2023 09:39,~,Jayadeva Hospital,"Gokulam 3rd Stage, Mysuru, Karnataka 570016",Unfounded
+1905356,DACOITY,12-03-2023 11:39,~,SUYOG HOSPITAL,"Ramakrishnanagar, Mysuru, Karnataka 570023",Inactive
+1905357,RIOTS,12-04-2023 12:39,~,"JSS MEDICAL COLLEGE, Mysore","Bannimantap, Mysuru, Karnataka 570007",Inactive
+1905358,LOUD MUSIC,12-05-2023 14:39,~,Grand Mercure Mysore,"Nelson Mandela Rd, Mysuru, Karnataka 570021",Inactive
+1905359,RIOTS,12-06-2023 16:39,~,Mysuru Racecourse Entrance MRC,"JC Nagar, Mysuru, Karnataka 570010",Closed
+1905360,ARSON,12-07-2023 17:39,~,Rmc market,"Bandipalya, Mysuru, Karnataka 571311",Unfounded
+1905361,KIDNAPPING,12-02-2023 19:39,~,Sri Chamundeshwari Temple,"Chamundeshwari Temple, Chamundi Hill, Mysuru, Karnataka 570010",Clear by Warning
+1905362,ABDUCTION,12-09-2023 19:39,~,Karnataka State Open University,"Muktha Gangothri, Mysuru, Karnataka 570006",Unfounded
+1905363,ATTEMPT TO MURDER,12-10-2023 03:39,~,The Windflower Resorts and Spa Mysuru,"Nazarbad Mohalla, Mysore, Karnataka 570010",Unfounded
+1905364,ASSIST FIRE DEPT POLICE,12-02-2023 07:39,~,GRS Fantasy Park,"Yadavagiri, Mysuru, Karnataka 570005",Unfounded
+1905365,HURT,12-02-2023 08:39,~,Planet Earth Aquarium & Pet zoo,"Kuppedada, Karnataka 571606",Inactive
+1905366,ASSIST FIRE DEPT PLICE,12-02-2023 21:10,~,"Excel Public School, Koorgalli","Belwadi Post, Mysuru, Karnataka 570018",Inactive
+1905367,HURT,12-02-2023 22:59,~,BEML Administrative Building,"Hebbal, Mysore, Karnataka 571606",Inactive
+1905368,GREVIOUS HURT,12-02-2023 11:09,~,Hotel Garden City,"Bannimantap, Mysore, Karnataka 570015",Unfounded
+1905369,RIOTS,12-02-2023 10:01,~,Sharmada Hidden Nest Resort,"Vijayanagar, Mysore, Karnataka 570018",Clear by Warning
+1905370,KIDNAPPING,12-02-2023 10:29,~,"Apollo BGS Hospitals, Mysuru","Adichunchanagiri Road, Jayanagar, Kuvempu Nagara, Mysuru, Karnataka 570023",Closed
+1905371,SUSPICIOUS EVENT,12-02-2023 12:49,~,ISKCON Mysore,"NO.213, 18th Cross Rd, Jayanagar, Vivekananda Nagar, Mysuru, Karnataka 570014",Unfounded
+1905372,ATTEMPT TO MURDER,01-03-2023 23:45,~,Sri Bhramaramba Mallikarjunaswamy kalamantap,"No 8, Sriramapura 2nd Stage, near Vivekananda Circle, Mysuru, Karnataka 570023",Inactive
+1905373,TRAFFIC STOP,02-03-2023 21:15,~,Lingambudhi Park,"Ramakrishnanagar, Mysuru, Karnataka 570023",Inactive
+1905374,LOUD MUSIC,03-03-2023 21:30,~,A V HOSPITAL,"Siddartha Nagar, Mysore, Karnataka 570011",Inactive
+1905375,BATTERY,04-03-2023 06:39,~,Neelanjana Mahesh Prasad,"35/A, Vishwamanava Double Road, Block A, MUDA Employees Layout, Ramakrishnanagar, Mysuru, ",Inactive
+1905376,MURDER,05-03-2023 05:39,~,"Amrita Vishwa Vidyapeetham, Mysore Campus","Bogadi 2nd Stage, Karnataka 570026",Closed
+1905377,ASSIST FIRE DEPT PLICE,06-03-2023 04:39,~,Nexus Centre City,"Nazarbad Mohalla, Mysore, Karnataka 570010",Inactive
+1905347,SUSPICIOUS EVENT,04-02-2023 21:39,~,MYSORE PALACE,"Chamrajpura, Mysuru, Karnataka 570001",Inactive
+1905348,DRUG INCIDENT,05-02-2023 10:39,~,Sri Ganapathy Sachchidananda Ashrama,"JP Nagara, Mysuru, Karnataka 570025",Unfounded
+1905349,TRAFFIC STOP,06-02-2023 01:39,~,Sizzling Corner,"Kuvempu Nagara, Mysuru, Karnataka 570023",Clear by Warning
+1905350,DRUG INCIDENT,07-02-2023 02:39,~,Study Centre / Reading Room - IAS kannadiga,"Krishnamurthy Puram, Mysuru, Karnataka 570004",Closed
+1905351,ASSIST EMS POLICE,08-02-2023 13:39,~,"Government Hospital, TK layout","TK Layout, Mysuru, Karnataka 570009",Inactive
+1905352,VADALISM,09-02-2023 20:39,~,University Of Mysore Campus,"University Of Mysore Campus, Mysuru, Karnataka",Inactive
+1905353,ASSIST FIRE DEPT POLICE,10-02-2023 15:39,~,RAILWAY MUSEUM MYSURU,"Yadavagiri, Mysuru, Karnataka 570005",Closed
+1905354,MURDER,11-02-2023 23:39,~,Corner House - V.V Mohalla,"Vani Vilas Mohalla, Mysuru, Karnataka 570002",Unfounded
+1905355,ATTEMPT TO MURDER,12-02-2023 09:39,~,Jayadeva Hospital,"Gokulam 3rd Stage, Mysuru, Karnataka 570016",Unfounded
+1905356,DACOITY,12-03-2023 11:39,~,SUYOG HOSPITAL,"Ramakrishnanagar, Mysuru, Karnataka 570023",Inactive
+1905357,RIOTS,12-04-2023 12:39,~,"JSS MEDICAL COLLEGE, Mysore","Bannimantap, Mysuru, Karnataka 570007",Inactive
+1905358,LOUD MUSIC,12-05-2023 14:39,~,Grand Mercure Mysore,"Nelson Mandela Rd, Mysuru, Karnataka 570021",Inactive
+1905359,RIOTS,12-06-2023 16:39,~,Mysuru Racecourse Entrance MRC,"JC Nagar, Mysuru, Karnataka 570010",Closed
+1905360,ARSON,12-07-2023 17:39,~,Rmc market,"Bandipalya, Mysuru, Karnataka 571311",Unfounded
+1905361,KIDNAPPING,12-02-2023 19:39,~,Sri Chamundeshwari Temple,"Chamundeshwari Temple, Chamundi Hill, Mysuru, Karnataka 570010",Clear by Warning
+1905362,ABDUCTION,12-09-2023 19:39,~,Karnataka State Open University,"Muktha Gangothri, Mysuru, Karnataka 570006",Unfounded
+1905363,ATTEMPT TO MURDER,12-10-2023 03:39,~,The Windflower Resorts and Spa Mysuru,"Nazarbad Mohalla, Mysore, Karnataka 570010",Unfounded
+1905364,ASSIST FIRE DEPT POLICE,12-02-2023 07:39,~,GRS Fantasy Park,"Yadavagiri, Mysuru, Karnataka 570005",Unfounded
+1905365,HURT,12-02-2023 08:39,~,Planet Earth Aquarium & Pet zoo,"Kuppedada, Karnataka 571606",Inactive
+1905366,ASSIST FIRE DEPT PLICE,12-02-2023 21:10,~,"Excel Public School, Koorgalli","Belwadi Post, Mysuru, Karnataka 570018",Inactive
+1905367,HURT,12-02-2023 22:59,~,BEML Administrative Building,"Hebbal, Mysore, Karnataka 571606",Inactive
+1905368,GREVIOUS HURT,12-02-2023 11:09,~,Hotel Garden City,"Bannimantap, Mysore, Karnataka 570015",Unfounded
+1905369,RIOTS,12-02-2023 10:01,~,Sharmada Hidden Nest Resort,"Vijayanagar, Mysore, Karnataka 570018",Clear by Warning
+1905370,KIDNAPPING,12-02-2023 10:29,~,"Apollo BGS Hospitals, Mysuru","Adichunchanagiri Road, Jayanagar, Kuvempu Nagara, Mysuru, Karnataka 570023",Closed
+1905371,SUSPICIOUS EVENT,12-02-2023 12:49,~,ISKCON Mysore,"NO.213, 18th Cross Rd, Jayanagar, Vivekananda Nagar, Mysuru, Karnataka 570014",Unfounded
+1905372,ATTEMPT TO MURDER,01-03-2023 23:45,~,Sri Bhramaramba Mallikarjunaswamy kalamantap,"No 8, Sriramapura 2nd Stage, near Vivekananda Circle, Mysuru, Karnataka 570023",Inactive
+1905373,TRAFFIC STOP,02-03-2023 21:15,~,Lingambudhi Park,"Ramakrishnanagar, Mysuru, Karnataka 570023",Inactive
+1905374,LOUD MUSIC,03-03-2023 21:30,~,A V HOSPITAL,"Siddartha Nagar, Mysore, Karnataka 570011",Inactive
+1905375,BATTERY,04-03-2023 06:39,~,Neelanjana Mahesh Prasad,"35/A, Vishwamanava Double Road, Block A, MUDA Employees Layout, Ramakrishnanagar, Mysuru, ",Inactive
+1905376,MURDER,05-03-2023 05:39,~,"Amrita Vishwa Vidyapeetham, Mysore Campus","Bogadi 2nd Stage, Karnataka 570026",Closed
+1905377,ASSIST FIRE DEPT PLICE,06-03-2023 04:39,~,Nexus Centre City,"Nazarbad Mohalla, Mysore, Karnataka 570010",Inactive
+1905347,SUSPICIOUS EVENT,04-02-2023 21:39,~,MYSORE PALACE,"Chamrajpura, Mysuru, Karnataka 570001",Inactive
+1905348,DRUG INCIDENT,05-02-2023 10:39,~,Sri Ganapathy Sachchidananda Ashrama,"JP Nagara, Mysuru, Karnataka 570025",Unfounded
+1905349,TRAFFIC STOP,06-02-2023 01:39,~,Sizzling Corner,"Kuvempu Nagara, Mysuru, Karnataka 570023",Clear by Warning
+1905350,DRUG INCIDENT,07-02-2023 02:39,~,Study Centre / Reading Room - IAS kannadiga,"Krishnamurthy Puram, Mysuru, Karnataka 570004",Closed
+1905351,ASSIST EMS POLICE,08-02-2023 13:39,~,"Government Hospital, TK layout","TK Layout, Mysuru, Karnataka 570009",Inactive
+1905352,VADALISM,09-02-2023 20:39,~,University Of Mysore Campus,"University Of Mysore Campus, Mysuru, Karnataka",Inactive
+1905353,ASSIST FIRE DEPT POLICE,10-02-2023 15:39,~,RAILWAY MUSEUM MYSURU,"Yadavagiri, Mysuru, Karnataka 570005",Closed
+1905354,MURDER,11-02-2023 23:39,~,Corner House - V.V Mohalla,"Vani Vilas Mohalla, Mysuru, Karnataka 570002",Unfounded
+1905355,ATTEMPT TO MURDER,12-02-2023 09:39,~,Jayadeva Hospital,"Gokulam 3rd Stage, Mysuru, Karnataka 570016",Unfounded
+1905356,DACOITY,12-03-2023 11:39,~,SUYOG HOSPITAL,"Ramakrishnanagar, Mysuru, Karnataka 570023",Inactive
+1905357,RIOTS,12-04-2023 12:39,~,"JSS MEDICAL COLLEGE, Mysore","Bannimantap, Mysuru, Karnataka 570007",Inactive
+1905358,LOUD MUSIC,12-05-2023 14:39,~,Grand Mercure Mysore,"Nelson Mandela Rd, Mysuru, Karnataka 570021",Inactive
+1905359,RIOTS,12-06-2023 16:39,~,Mysuru Racecourse Entrance MRC,"JC Nagar, Mysuru, Karnataka 570010",Closed
+1905360,ARSON,12-07-2023 17:39,~,Rmc market,"Bandipalya, Mysuru, Karnataka 571311",Unfounded
+1905361,KIDNAPPING,12-02-2023 19:39,~,Sri Chamundeshwari Temple,"Chamundeshwari Temple, Chamundi Hill, Mysuru, Karnataka 570010",Clear by Warning
+1905362,ABDUCTION,12-09-2023 19:39,~,Karnataka State Open University,"Muktha Gangothri, Mysuru, Karnataka 570006",Unfounded
+1905363,ATTEMPT TO MURDER,12-10-2023 03:39,~,The Windflower Resorts and Spa Mysuru,"Nazarbad Mohalla, Mysore, Karnataka 570010",Unfounded
+1905364,ASSIST FIRE DEPT POLICE,12-02-2023 07:39,~,GRS Fantasy Park,"Yadavagiri, Mysuru, Karnataka 570005",Unfounded
+1905365,HURT,12-02-2023 08:39,~,Planet Earth Aquarium & Pet zoo,"Kuppedada, Karnataka 571606",Inactive
+1905366,ASSIST FIRE DEPT PLICE,12-02-2023 21:10,~,"Excel Public School, Koorgalli","Belwadi Post, Mysuru, Karnataka 570018",Inactive
+1905367,HURT,12-02-2023 22:59,~,BEML Administrative Building,"Hebbal, Mysore, Karnataka 571606",Inactive
+1905368,GREVIOUS HURT,12-02-2023 11:09,~,Hotel Garden City,"Bannimantap, Mysore, Karnataka 570015",Unfounded
+1905369,RIOTS,12-02-2023 10:01,~,Sharmada Hidden Nest Resort,"Vijayanagar, Mysore, Karnataka 570018",Clear by Warning
+1905370,KIDNAPPING,12-02-2023 10:29,~,"Apollo BGS Hospitals, Mysuru","Adichunchanagiri Road, Jayanagar, Kuvempu Nagara, Mysuru, Karnataka 570023",Closed
+1905371,SUSPICIOUS EVENT,12-02-2023 12:49,~,ISKCON Mysore,"NO.213, 18th Cross Rd, Jayanagar, Vivekananda Nagar, Mysuru, Karnataka 570014",Unfounded
+1905372,ATTEMPT TO MURDER,01-03-2023 23:45,~,Sri Bhramaramba Mallikarjunaswamy kalamantap,"No 8, Sriramapura 2nd Stage, near Vivekananda Circle, Mysuru, Karnataka 570023",Inactive
+1905373,TRAFFIC STOP,02-03-2023 21:15,~,Lingambudhi Park,"Ramakrishnanagar, Mysuru, Karnataka 570023",Inactive
+1905374,LOUD MUSIC,03-03-2023 21:30,~,A V HOSPITAL,"Siddartha Nagar, Mysore, Karnataka 570011",Inactive
+1905375,BATTERY,04-03-2023 06:39,~,Neelanjana Mahesh Prasad,"35/A, Vishwamanava Double Road, Block A, MUDA Employees Layout, Ramakrishnanagar, Mysuru, ",Inactive
+1905376,MURDER,05-03-2023 05:39,~,"Amrita Vishwa Vidyapeetham, Mysore Campus","Bogadi 2nd Stage, Karnataka 570026",Closed
+1905377,ASSIST FIRE DEPT PLICE,06-03-2023 04:39,~,Nexus Centre City,"Nazarbad Mohalla, Mysore, Karnataka 570010",Inactive
+1905347,SUSPICIOUS EVENT,04-02-2023 21:39,~,MYSORE PALACE,"Chamrajpura, Mysuru, Karnataka 570001",Inactive
+1905348,DRUG INCIDENT,05-02-2023 10:39,~,Sri Ganapathy Sachchidananda Ashrama,"JP Nagara, Mysuru, Karnataka 570025",Unfounded
+1905349,TRAFFIC STOP,06-02-2023 01:39,~,Sizzling Corner,"Kuvempu Nagara, Mysuru, Karnataka 570023",Clear by Warning
+1905350,DRUG INCIDENT,07-02-2023 02:39,~,Study Centre / Reading Room - IAS kannadiga,"Krishnamurthy Puram, Mysuru, Karnataka 570004",Closed
+1905351,ASSIST EMS POLICE,08-02-2023 13:39,~,"Government Hospital, TK layout","TK Layout, Mysuru, Karnataka 570009",Inactive
+1905352,VADALISM,09-02-2023 20:39,~,University Of Mysore Campus,"University Of Mysore Campus, Mysuru, Karnataka",Inactive
+1905353,ASSIST FIRE DEPT POLICE,10-02-2023 15:39,~,RAILWAY MUSEUM MYSURU,"Yadavagiri, Mysuru, Karnataka 570005",Closed
+1905354,MURDER,11-02-2023 23:39,~,Corner House - V.V Mohalla,"Vani Vilas Mohalla, Mysuru, Karnataka 570002",Unfounded
+1905355,ATTEMPT TO MURDER,12-02-2023 09:39,~,Jayadeva Hospital,"Gokulam 3rd Stage, Mysuru, Karnataka 570016",Unfounded
+1905356,DACOITY,12-03-2023 11:39,~,SUYOG HOSPITAL,"Ramakrishnanagar, Mysuru, Karnataka 570023",Inactive
+1905357,RIOTS,12-04-2023 12:39,~,"JSS MEDICAL COLLEGE, Mysore","Bannimantap, Mysuru, Karnataka 570007",Inactive
+1905358,LOUD MUSIC,12-05-2023 14:39,~,Grand Mercure Mysore,"Nelson Mandela Rd, Mysuru, Karnataka 570021",Inactive
+1905359,RIOTS,12-06-2023 16:39,~,Mysuru Racecourse Entrance MRC,"JC Nagar, Mysuru, Karnataka 570010",Closed
+1905360,ARSON,12-07-2023 17:39,~,Rmc market,"Bandipalya, Mysuru, Karnataka 571311",Unfounded
+1905361,KIDNAPPING,12-02-2023 19:39,~,Sri Chamundeshwari Temple,"Chamundeshwari Temple, Chamundi Hill, Mysuru, Karnataka 570010",Clear by Warning
+1905362,ABDUCTION,12-09-2023 19:39,~,Karnataka State Open University,"Muktha Gangothri, Mysuru, Karnataka 570006",Unfounded
+1905363,ATTEMPT TO MURDER,12-10-2023 03:39,~,The Windflower Resorts and Spa Mysuru,"Nazarbad Mohalla, Mysore, Karnataka 570010",Unfounded
+1905364,ASSIST FIRE DEPT POLICE,12-02-2023 07:39,~,GRS Fantasy Park,"Yadavagiri, Mysuru, Karnataka 570005",Unfounded
+1905365,HURT,12-02-2023 08:39,~,Planet Earth Aquarium & Pet zoo,"Kuppedada, Karnataka 571606",Inactive
+1905366,ASSIST FIRE DEPT PLICE,12-02-2023 21:10,~,"Excel Public School, Koorgalli","Belwadi Post, Mysuru, Karnataka 570018",Inactive
+1905367,HURT,12-02-2023 22:59,~,BEML Administrative Building,"Hebbal, Mysore, Karnataka 571606",Inactive
+1905368,GREVIOUS HURT,12-02-2023 11:09,~,Hotel Garden City,"Bannimantap, Mysore, Karnataka 570015",Unfounded
+1905369,RIOTS,12-02-2023 10:01,~,Sharmada Hidden Nest Resort,"Vijayanagar, Mysore, Karnataka 570018",Clear by Warning
+1905370,KIDNAPPING,12-02-2023 10:29,~,"Apollo BGS Hospitals, Mysuru","Adichunchanagiri Road, Jayanagar, Kuvempu Nagara, Mysuru, Karnataka 570023",Closed
+1905371,SUSPICIOUS EVENT,12-02-2023 12:49,~,ISKCON Mysore,"NO.213, 18th Cross Rd, Jayanagar, Vivekananda Nagar, Mysuru, Karnataka 570014",Unfounded
+1905372,ATTEMPT TO MURDER,01-03-2023 23:45,~,Sri Bhramaramba Mallikarjunaswamy kalamantap,"No 8, Sriramapura 2nd Stage, near Vivekananda Circle, Mysuru, Karnataka 570023",Inactive
+1905373,TRAFFIC STOP,02-03-2023 21:15,~,Lingambudhi Park,"Ramakrishnanagar, Mysuru, Karnataka 570023",Inactive
+1905374,LOUD MUSIC,03-03-2023 21:30,~,A V HOSPITAL,"Siddartha Nagar, Mysore, Karnataka 570011",Inactive
+1905375,BATTERY,04-03-2023 06:39,~,Neelanjana Mahesh Prasad,"35/A, Vishwamanava Double Road, Block A, MUDA Employees Layout, Ramakrishnanagar, Mysuru, ",Inactive
+1905376,MURDER,05-03-2023 05:39,~,"Amrita Vishwa Vidyapeetham, Mysore Campus","Bogadi 2nd Stage, Karnataka 570026",Closed
+1905377,ASSIST FIRE DEPT PLICE,06-03-2023 04:39,~,Nexus Centre City,"Nazarbad Mohalla, Mysore, Karnataka 570010",Inactive
+1905347,SUSPICIOUS EVENT,04-02-2023 21:39,~,MYSORE PALACE,"Chamrajpura, Mysuru, Karnataka 570001",Inactive
+1905348,DRUG INCIDENT,05-02-2023 10:39,~,Sri Ganapathy Sachchidananda Ashrama,"JP Nagara, Mysuru, Karnataka 570025",Unfounded
+1905349,TRAFFIC STOP,06-02-2023 01:39,~,Sizzling Corner,"Kuvempu Nagara, Mysuru, Karnataka 570023",Clear by Warning
+1905350,DRUG INCIDENT,07-02-2023 02:39,~,Study Centre / Reading Room - IAS kannadiga,"Krishnamurthy Puram, Mysuru, Karnataka 570004",Closed
+1905351,ASSIST EMS POLICE,08-02-2023 13:39,~,"Government Hospital, TK layout","TK Layout, Mysuru, Karnataka 570009",Inactive
+1905352,VADALISM,09-02-2023 20:39,~,University Of Mysore Campus,"University Of Mysore Campus, Mysuru, Karnataka",Inactive
+1905353,ASSIST FIRE DEPT POLICE,10-02-2023 15:39,~,RAILWAY MUSEUM MYSURU,"Yadavagiri, Mysuru, Karnataka 570005",Closed
+1905354,MURDER,11-02-2023 23:39,~,Corner House - V.V Mohalla,"Vani Vilas Mohalla, Mysuru, Karnataka 570002",Unfounded
+1905355,ATTEMPT TO MURDER,12-02-2023 09:39,~,Jayadeva Hospital,"Gokulam 3rd Stage, Mysuru, Karnataka 570016",Unfounded
+1905356,DACOITY,12-03-2023 11:39,~,SUYOG HOSPITAL,"Ramakrishnanagar, Mysuru, Karnataka 570023",Inactive
+1905357,RIOTS,12-04-2023 12:39,~,"JSS MEDICAL COLLEGE, Mysore","Bannimantap, Mysuru, Karnataka 570007",Inactive
+1905358,LOUD MUSIC,12-05-2023 14:39,~,Grand Mercure Mysore,"Nelson Mandela Rd, Mysuru, Karnataka 570021",Inactive
+1905359,RIOTS,12-06-2023 16:39,~,Mysuru Racecourse Entrance MRC,"JC Nagar, Mysuru, Karnataka 570010",Closed
+1905360,ARSON,12-07-2023 17:39,~,Rmc market,"Bandipalya, Mysuru, Karnataka 571311",Unfounded
+1905361,KIDNAPPING,12-02-2023 19:39,~,Sri Chamundeshwari Temple,"Chamundeshwari Temple, Chamundi Hill, Mysuru, Karnataka 570010",Clear by Warning
+1905362,ABDUCTION,12-09-2023 19:39,~,Karnataka State Open University,"Muktha Gangothri, Mysuru, Karnataka 570006",Unfounded
+1905363,ATTEMPT TO MURDER,12-10-2023 03:39,~,The Windflower Resorts and Spa Mysuru,"Nazarbad Mohalla, Mysore, Karnataka 570010",Unfounded
+1905364,ASSIST FIRE DEPT POLICE,12-02-2023 07:39,~,GRS Fantasy Park,"Yadavagiri, Mysuru, Karnataka 570005",Unfounded
+1905365,HURT,12-02-2023 08:39,~,Planet Earth Aquarium & Pet zoo,"Kuppedada, Karnataka 571606",Inactive
+1905366,ASSIST FIRE DEPT PLICE,12-02-2023 21:10,~,"Excel Public School, Koorgalli","Belwadi Post, Mysuru, Karnataka 570018",Inactive
+1905367,HURT,12-02-2023 22:59,~,BEML Administrative Building,"Hebbal, Mysore, Karnataka 571606",Inactive
+1905368,GREVIOUS HURT,12-02-2023 11:09,~,Hotel Garden City,"Bannimantap, Mysore, Karnataka 570015",Unfounded
+1905369,RIOTS,12-02-2023 10:01,~,Sharmada Hidden Nest Resort,"Vijayanagar, Mysore, Karnataka 570018",Clear by Warning
+1905370,KIDNAPPING,12-02-2023 10:29,~,"Apollo BGS Hospitals, Mysuru","Adichunchanagiri Road, Jayanagar, Kuvempu Nagara, Mysuru, Karnataka 570023",Closed
+1905371,SUSPICIOUS EVENT,12-02-2023 12:49,~,ISKCON Mysore,"NO.213, 18th Cross Rd, Jayanagar, Vivekananda Nagar, Mysuru, Karnataka 570014",Unfounded
+1905372,ATTEMPT TO MURDER,01-03-2023 23:45,~,Sri Bhramaramba Mallikarjunaswamy kalamantap,"No 8, Sriramapura 2nd Stage, near Vivekananda Circle, Mysuru, Karnataka 570023",Inactive
+1905373,TRAFFIC STOP,02-03-2023 21:15,~,Lingambudhi Park,"Ramakrishnanagar, Mysuru, Karnataka 570023",Inactive
+1905374,LOUD MUSIC,03-03-2023 21:30,~,A V HOSPITAL,"Siddartha Nagar, Mysore, Karnataka 570011",Inactive
+1905375,BATTERY,04-03-2023 06:39,~,Neelanjana Mahesh Prasad,"35/A, Vishwamanava Double Road, Block A, MUDA Employees Layout, Ramakrishnanagar, Mysuru, ",Inactive
+1905376,MURDER,05-03-2023 05:39,~,"Amrita Vishwa Vidyapeetham, Mysore Campus","Bogadi 2nd Stage, Karnataka 570026",Closed
+1905377,ASSIST FIRE DEPT PLICE,06-03-2023 04:39,~,Nexus Centre City,"Nazarbad Mohalla, Mysore, Karnataka 570010",Inactive
+1905347,SUSPICIOUS EVENT,04-02-2023 21:39,~,MYSORE PALACE,"Chamrajpura, Mysuru, Karnataka 570001",Inactive
+1905348,DRUG INCIDENT,05-02-2023 10:39,~,Sri Ganapathy Sachchidananda Ashrama,"JP Nagara, Mysuru, Karnataka 570025",Unfounded
+1905349,TRAFFIC STOP,06-02-2023 01:39,~,Sizzling Corner,"Kuvempu Nagara, Mysuru, Karnataka 570023",Clear by Warning
+1905350,DRUG INCIDENT,07-02-2023 02:39,~,Study Centre / Reading Room - IAS kannadiga,"Krishnamurthy Puram, Mysuru, Karnataka 570004",Closed
+1905351,ASSIST EMS POLICE,08-02-2023 13:39,~,"Government Hospital, TK layout","TK Layout, Mysuru, Karnataka 570009",Inactive
+1905352,VADALISM,09-02-2023 20:39,~,University Of Mysore Campus,"University Of Mysore Campus, Mysuru, Karnataka",Inactive
+1905353,ASSIST FIRE DEPT POLICE,10-02-2023 15:39,~,RAILWAY MUSEUM MYSURU,"Yadavagiri, Mysuru, Karnataka 570005",Closed
+1905354,MURDER,11-02-2023 23:39,~,Corner House - V.V Mohalla,"Vani Vilas Mohalla, Mysuru, Karnataka 570002",Unfounded
+1905355,ATTEMPT TO MURDER,12-02-2023 09:39,~,Jayadeva Hospital,"Gokulam 3rd Stage, Mysuru, Karnataka 570016",Unfounded
+1905356,DACOITY,12-03-2023 11:39,~,SUYOG HOSPITAL,"Ramakrishnanagar, Mysuru, Karnataka 570023",Inactive
+1905357,RIOTS,12-04-2023 12:39,~,"JSS MEDICAL COLLEGE, Mysore","Bannimantap, Mysuru, Karnataka 570007",Inactive
+1905358,LOUD MUSIC,12-05-2023 14:39,~,Grand Mercure Mysore,"Nelson Mandela Rd, Mysuru, Karnataka 570021",Inactive
+1905359,RIOTS,12-06-2023 16:39,~,Mysuru Racecourse Entrance MRC,"JC Nagar, Mysuru, Karnataka 570010",Closed
+1905360,ARSON,12-07-2023 17:39,~,Rmc market,"Bandipalya, Mysuru, Karnataka 571311",Unfounded
+1905361,KIDNAPPING,12-02-2023 19:39,~,Sri Chamundeshwari Temple,"Chamundeshwari Temple, Chamundi Hill, Mysuru, Karnataka 570010",Clear by Warning
+1905362,ABDUCTION,12-09-2023 19:39,~,Karnataka State Open University,"Muktha Gangothri, Mysuru, Karnataka 570006",Unfounded
+1905363,ATTEMPT TO MURDER,12-10-2023 03:39,~,The Windflower Resorts and Spa Mysuru,"Nazarbad Mohalla, Mysore, Karnataka 570010",Unfounded
+1905364,ASSIST FIRE DEPT POLICE,12-02-2023 07:39,~,GRS Fantasy Park,"Yadavagiri, Mysuru, Karnataka 570005",Unfounded
+1905365,HURT,12-02-2023 08:39,~,Planet Earth Aquarium & Pet zoo,"Kuppedada, Karnataka 571606",Inactive
+1905366,ASSIST FIRE DEPT PLICE,12-02-2023 21:10,~,"Excel Public School, Koorgalli","Belwadi Post, Mysuru, Karnataka 570018",Inactive
+1905367,HURT,12-02-2023 22:59,~,BEML Administrative Building,"Hebbal, Mysore, Karnataka 571606",Inactive
+1905368,GREVIOUS HURT,12-02-2023 11:09,~,Hotel Garden City,"Bannimantap, Mysore, Karnataka 570015",Unfounded
+1905369,RIOTS,12-02-2023 10:01,~,Sharmada Hidden Nest Resort,"Vijayanagar, Mysore, Karnataka 570018",Clear by Warning
+1905370,KIDNAPPING,12-02-2023 10:29,~,"Apollo BGS Hospitals, Mysuru","Adichunchanagiri Road, Jayanagar, Kuvempu Nagara, Mysuru, Karnataka 570023",Closed
+1905371,SUSPICIOUS EVENT,12-02-2023 12:49,~,ISKCON Mysore,"NO.213, 18th Cross Rd, Jayanagar, Vivekananda Nagar, Mysuru, Karnataka 570014",Unfounded
+1905372,ATTEMPT TO MURDER,01-03-2023 23:45,~,Sri Bhramaramba Mallikarjunaswamy kalamantap,"No 8, Sriramapura 2nd Stage, near Vivekananda Circle, Mysuru, Karnataka 570023",Inactive
+1905373,TRAFFIC STOP,02-03-2023 21:15,~,Lingambudhi Park,"Ramakrishnanagar, Mysuru, Karnataka 570023",Inactive
+1905374,LOUD MUSIC,03-03-2023 21:30,~,A V HOSPITAL,"Siddartha Nagar, Mysore, Karnataka 570011",Inactive
+1905375,BATTERY,04-03-2023 06:39,~,Neelanjana Mahesh Prasad,"35/A, Vishwamanava Double Road, Block A, MUDA Employees Layout, Ramakrishnanagar, Mysuru, ",Inactive
+1905376,MURDER,05-03-2023 05:39,~,"Amrita Vishwa Vidyapeetham, Mysore Campus","Bogadi 2nd Stage, Karnataka 570026",Closed
+1905377,ASSIST FIRE DEPT PLICE,06-03-2023 04:39,~,Nexus Centre City,"Nazarbad Mohalla, Mysore, Karnataka 570010",Inactive
+1905347,SUSPICIOUS EVENT,04-02-2023 21:39,~,MYSORE PALACE,"Chamrajpura, Mysuru, Karnataka 570001",Inactive
+1905348,DRUG INCIDENT,05-02-2023 10:39,~,Sri Ganapathy Sachchidananda Ashrama,"JP Nagara, Mysuru, Karnataka 570025",Unfounded
+1905349,TRAFFIC STOP,06-02-2023 01:39,~,Sizzling Corner,"Kuvempu Nagara, Mysuru, Karnataka 570023",Clear by Warning
+1905350,DRUG INCIDENT,07-02-2023 02:39,~,Study Centre / Reading Room - IAS kannadiga,"Krishnamurthy Puram, Mysuru, Karnataka 570004",Closed
+1905351,ASSIST EMS POLICE,08-02-2023 13:39,~,"Government Hospital, TK layout","TK Layout, Mysuru, Karnataka 570009",Inactive
+1905352,VADALISM,09-02-2023 20:39,~,University Of Mysore Campus,"University Of Mysore Campus, Mysuru, Karnataka",Inactive
+1905353,ASSIST FIRE DEPT POLICE,10-02-2023 15:39,~,RAILWAY MUSEUM MYSURU,"Yadavagiri, Mysuru, Karnataka 570005",Closed
+1905354,MURDER,11-02-2023 23:39,~,Corner House - V.V Mohalla,"Vani Vilas Mohalla, Mysuru, Karnataka 570002",Unfounded
+1905355,ATTEMPT TO MURDER,12-02-2023 09:39,~,Jayadeva Hospital,"Gokulam 3rd Stage, Mysuru, Karnataka 570016",Unfounded
+1905356,DACOITY,12-03-2023 11:39,~,SUYOG HOSPITAL,"Ramakrishnanagar, Mysuru, Karnataka 570023",Inactive
+1905357,RIOTS,12-04-2023 12:39,~,"JSS MEDICAL COLLEGE, Mysore","Bannimantap, Mysuru, Karnataka 570007",Inactive
+1905358,LOUD MUSIC,12-05-2023 14:39,~,Grand Mercure Mysore,"Nelson Mandela Rd, Mysuru, Karnataka 570021",Inactive
+1905359,RIOTS,12-06-2023 16:39,~,Mysuru Racecourse Entrance MRC,"JC Nagar, Mysuru, Karnataka 570010",Closed
+1905360,ARSON,12-07-2023 17:39,~,Rmc market,"Bandipalya, Mysuru, Karnataka 571311",Unfounded
+1905361,KIDNAPPING,12-02-2023 19:39,~,Sri Chamundeshwari Temple,"Chamundeshwari Temple, Chamundi Hill, Mysuru, Karnataka 570010",Clear by Warning
+1905362,ABDUCTION,12-09-2023 19:39,~,Karnataka State Open University,"Muktha Gangothri, Mysuru, Karnataka 570006",Unfounded
+1905363,ATTEMPT TO MURDER,12-10-2023 03:39,~,The Windflower Resorts and Spa Mysuru,"Nazarbad Mohalla, Mysore, Karnataka 570010",Unfounded
+1905364,ASSIST FIRE DEPT POLICE,12-02-2023 07:39,~,GRS Fantasy Park,"Yadavagiri, Mysuru, Karnataka 570005",Unfounded
+1905365,HURT,12-02-2023 08:39,~,Planet Earth Aquarium & Pet zoo,"Kuppedada, Karnataka 571606",Inactive
+1905366,ASSIST FIRE DEPT PLICE,12-02-2023 21:10,~,"Excel Public School, Koorgalli","Belwadi Post, Mysuru, Karnataka 570018",Inactive
+1905367,HURT,12-02-2023 22:59,~,BEML Administrative Building,"Hebbal, Mysore, Karnataka 571606",Inactive
+1905368,GREVIOUS HURT,12-02-2023 11:09,~,Hotel Garden City,"Bannimantap, Mysore, Karnataka 570015",Unfounded
+1905369,RIOTS,12-02-2023 10:01,~,Sharmada Hidden Nest Resort,"Vijayanagar, Mysore, Karnataka 570018",Clear by Warning
+1905370,KIDNAPPING,12-02-2023 10:29,~,"Apollo BGS Hospitals, Mysuru","Adichunchanagiri Road, Jayanagar, Kuvempu Nagara, Mysuru, Karnataka 570023",Closed
+1905371,SUSPICIOUS EVENT,12-02-2023 12:49,~,ISKCON Mysore,"NO.213, 18th Cross Rd, Jayanagar, Vivekananda Nagar, Mysuru, Karnataka 570014",Unfounded
+1905372,ATTEMPT TO MURDER,01-03-2023 23:45,~,Sri Bhramaramba Mallikarjunaswamy kalamantap,"No 8, Sriramapura 2nd Stage, near Vivekananda Circle, Mysuru, Karnataka 570023",Inactive
+1905373,TRAFFIC STOP,02-03-2023 21:15,~,Lingambudhi Park,"Ramakrishnanagar, Mysuru, Karnataka 570023",Inactive
+1905374,LOUD MUSIC,03-03-2023 21:30,~,A V HOSPITAL,"Siddartha Nagar, Mysore, Karnataka 570011",Inactive
+1905375,BATTERY,04-03-2023 06:39,~,Neelanjana Mahesh Prasad,"35/A, Vishwamanava Double Road, Block A, MUDA Employees Layout, Ramakrishnanagar, Mysuru, ",Inactive
+1905376,MURDER,05-03-2023 05:39,~,"Amrita Vishwa Vidyapeetham, Mysore Campus","Bogadi 2nd Stage, Karnataka 570026",Closed
+1905377,ASSIST FIRE DEPT PLICE,06-03-2023 04:39,~,Nexus Centre City,"Nazarbad Mohalla, Mysore, Karnataka 570010",Inactive
+1905347,SUSPICIOUS EVENT,04-02-2023 21:39,~,MYSORE PALACE,"Chamrajpura, Mysuru, Karnataka 570001",Inactive
+1905348,DRUG INCIDENT,05-02-2023 10:39,~,Sri Ganapathy Sachchidananda Ashrama,"JP Nagara, Mysuru, Karnataka 570025",Unfounded
+1905349,TRAFFIC STOP,06-02-2023 01:39,~,Sizzling Corner,"Kuvempu Nagara, Mysuru, Karnataka 570023",Clear by Warning
+1905350,DRUG INCIDENT,07-02-2023 02:39,~,Study Centre / Reading Room - IAS kannadiga,"Krishnamurthy Puram, Mysuru, Karnataka 570004",Closed
+1905351,ASSIST EMS POLICE,08-02-2023 13:39,~,"Government Hospital, TK layout","TK Layout, Mysuru, Karnataka 570009",Inactive
+1905352,VADALISM,09-02-2023 20:39,~,University Of Mysore Campus,"University Of Mysore Campus, Mysuru, Karnataka",Inactive
+1905353,ASSIST FIRE DEPT POLICE,10-02-2023 15:39,~,RAILWAY MUSEUM MYSURU,"Yadavagiri, Mysuru, Karnataka 570005",Closed
+1905354,MURDER,11-02-2023 23:39,~,Corner House - V.V Mohalla,"Vani Vilas Mohalla, Mysuru, Karnataka 570002",Unfounded
+1905355,ATTEMPT TO MURDER,12-02-2023 09:39,~,Jayadeva Hospital,"Gokulam 3rd Stage, Mysuru, Karnataka 570016",Unfounded
+1905356,DACOITY,12-03-2023 11:39,~,SUYOG HOSPITAL,"Ramakrishnanagar, Mysuru, Karnataka 570023",Inactive
+1905357,RIOTS,12-04-2023 12:39,~,"JSS MEDICAL COLLEGE, Mysore","Bannimantap, Mysuru, Karnataka 570007",Inactive
+1905358,LOUD MUSIC,12-05-2023 14:39,~,Grand Mercure Mysore,"Nelson Mandela Rd, Mysuru, Karnataka 570021",Inactive
+1905359,RIOTS,12-06-2023 16:39,~,Mysuru Racecourse Entrance MRC,"JC Nagar, Mysuru, Karnataka 570010",Closed
+1905360,ARSON,12-07-2023 17:39,~,Rmc market,"Bandipalya, Mysuru, Karnataka 571311",Unfounded
+1905361,KIDNAPPING,12-02-2023 19:39,~,Sri Chamundeshwari Temple,"Chamundeshwari Temple, Chamundi Hill, Mysuru, Karnataka 570010",Clear by Warning
+1905362,ABDUCTION,12-09-2023 19:39,~,Karnataka State Open University,"Muktha Gangothri, Mysuru, Karnataka 570006",Unfounded
+1905363,ATTEMPT TO MURDER,12-10-2023 03:39,~,The Windflower Resorts and Spa Mysuru,"Nazarbad Mohalla, Mysore, Karnataka 570010",Unfounded
+1905364,ASSIST FIRE DEPT POLICE,12-02-2023 07:39,~,GRS Fantasy Park,"Yadavagiri, Mysuru, Karnataka 570005",Unfounded
+1905365,HURT,12-02-2023 08:39,~,Planet Earth Aquarium & Pet zoo,"Kuppedada, Karnataka 571606",Inactive
+1905366,ASSIST FIRE DEPT PLICE,12-02-2023 21:10,~,"Excel Public School, Koorgalli","Belwadi Post, Mysuru, Karnataka 570018",Inactive
+1905367,HURT,12-02-2023 22:59,~,BEML Administrative Building,"Hebbal, Mysore, Karnataka 571606",Inactive
+1905368,GREVIOUS HURT,12-02-2023 11:09,~,Hotel Garden City,"Bannimantap, Mysore, Karnataka 570015",Unfounded
+1905369,RIOTS,12-02-2023 10:01,~,Sharmada Hidden Nest Resort,"Vijayanagar, Mysore, Karnataka 570018",Clear by Warning
+1905370,KIDNAPPING,12-02-2023 10:29,~,"Apollo BGS Hospitals, Mysuru","Adichunchanagiri Road, Jayanagar, Kuvempu Nagara, Mysuru, Karnataka 570023",Closed
+1905371,SUSPICIOUS EVENT,12-02-2023 12:49,~,ISKCON Mysore,"NO.213, 18th Cross Rd, Jayanagar, Vivekananda Nagar, Mysuru, Karnataka 570014",Unfounded
+1905372,ATTEMPT TO MURDER,01-03-2023 23:45,~,Sri Bhramaramba Mallikarjunaswamy kalamantap,"No 8, Sriramapura 2nd Stage, near Vivekananda Circle, Mysuru, Karnataka 570023",Inactive
+1905373,TRAFFIC STOP,02-03-2023 21:15,~,Lingambudhi Park,"Ramakrishnanagar, Mysuru, Karnataka 570023",Inactive
+1905374,LOUD MUSIC,03-03-2023 21:30,~,A V HOSPITAL,"Siddartha Nagar, Mysore, Karnataka 570011",Inactive
+1905375,BATTERY,04-03-2023 06:39,~,Neelanjana Mahesh Prasad,"35/A, Vishwamanava Double Road, Block A, MUDA Employees Layout, Ramakrishnanagar, Mysuru, ",Inactive
+1905376,MURDER,05-03-2023 05:39,~,"Amrita Vishwa Vidyapeetham, Mysore Campus","Bogadi 2nd Stage, Karnataka 570026",Closed
+1905377,ASSIST FIRE DEPT PLICE,06-03-2023 04:39,~,Nexus Centre City,"Nazarbad Mohalla, Mysore, Karnataka 570010",Inactive
+1905347,SUSPICIOUS EVENT,04-02-2023 21:39,~,MYSORE PALACE,"Chamrajpura, Mysuru, Karnataka 570001",Inactive
+1905348,DRUG INCIDENT,05-02-2023 10:39,~,Sri Ganapathy Sachchidananda Ashrama,"JP Nagara, Mysuru, Karnataka 570025",Unfounded
+1905349,TRAFFIC STOP,06-02-2023 01:39,~,Sizzling Corner,"Kuvempu Nagara, Mysuru, Karnataka 570023",Clear by Warning
+1905350,DRUG INCIDENT,07-02-2023 02:39,~,Study Centre / Reading Room - IAS kannadiga,"Krishnamurthy Puram, Mysuru, Karnataka 570004",Closed
+1905351,ASSIST EMS POLICE,08-02-2023 13:39,~,"Government Hospital, TK layout","TK Layout, Mysuru, Karnataka 570009",Inactive
+1905352,VADALISM,09-02-2023 20:39,~,University Of Mysore Campus,"University Of Mysore Campus, Mysuru, Karnataka",Inactive
+1905353,ASSIST FIRE DEPT POLICE,10-02-2023 15:39,~,RAILWAY MUSEUM MYSURU,"Yadavagiri, Mysuru, Karnataka 570005",Closed
+1905354,MURDER,11-02-2023 23:39,~,Corner House - V.V Mohalla,"Vani Vilas Mohalla, Mysuru, Karnataka 570002",Unfounded
+1905355,ATTEMPT TO MURDER,12-02-2023 09:39,~,Jayadeva Hospital,"Gokulam 3rd Stage, Mysuru, Karnataka 570016",Unfounded
+1905356,DACOITY,12-03-2023 11:39,~,SUYOG HOSPITAL,"Ramakrishnanagar, Mysuru, Karnataka 570023",Inactive
+1905357,RIOTS,12-04-2023 12:39,~,"JSS MEDICAL COLLEGE, Mysore","Bannimantap, Mysuru, Karnataka 570007",Inactive
+1905358,LOUD MUSIC,12-05-2023 14:39,~,Grand Mercure Mysore,"Nelson Mandela Rd, Mysuru, Karnataka 570021",Inactive
+1905359,RIOTS,12-06-2023 16:39,~,Mysuru Racecourse Entrance MRC,"JC Nagar, Mysuru, Karnataka 570010",Closed
+1905360,ARSON,12-07-2023 17:39,~,Rmc market,"Bandipalya, Mysuru, Karnataka 571311",Unfounded
+1905361,KIDNAPPING,12-02-2023 19:39,~,Sri Chamundeshwari Temple,"Chamundeshwari Temple, Chamundi Hill, Mysuru, Karnataka 570010",Clear by Warning
+1905362,ABDUCTION,12-09-2023 19:39,~,Karnataka State Open University,"Muktha Gangothri, Mysuru, Karnataka 570006",Unfounded
+1905363,ATTEMPT TO MURDER,12-10-2023 03:39,~,The Windflower Resorts and Spa Mysuru,"Nazarbad Mohalla, Mysore, Karnataka 570010",Unfounded
+1905364,ASSIST FIRE DEPT POLICE,12-02-2023 07:39,~,GRS Fantasy Park,"Yadavagiri, Mysuru, Karnataka 570005",Unfounded
+1905365,HURT,12-02-2023 08:39,~,Planet Earth Aquarium & Pet zoo,"Kuppedada, Karnataka 571606",Inactive
+1905366,ASSIST FIRE DEPT PLICE,12-02-2023 21:10,~,"Excel Public School, Koorgalli","Belwadi Post, Mysuru, Karnataka 570018",Inactive
+1905367,HURT,12-02-2023 22:59,~,BEML Administrative Building,"Hebbal, Mysore, Karnataka 571606",Inactive
+1905368,GREVIOUS HURT,12-02-2023 11:09,~,Hotel Garden City,"Bannimantap, Mysore, Karnataka 570015",Unfounded
+1905369,RIOTS,12-02-2023 10:01,~,Sharmada Hidden Nest Resort,"Vijayanagar, Mysore, Karnataka 570018",Clear by Warning
+1905370,KIDNAPPING,12-02-2023 10:29,~,"Apollo BGS Hospitals, Mysuru","Adichunchanagiri Road, Jayanagar, Kuvempu Nagara, Mysuru, Karnataka 570023",Closed
+1905371,SUSPICIOUS EVENT,12-02-2023 12:49,~,ISKCON Mysore,"NO.213, 18th Cross Rd, Jayanagar, Vivekananda Nagar, Mysuru, Karnataka 570014",Unfounded
+1905372,ATTEMPT TO MURDER,01-03-2023 23:45,~,Sri Bhramaramba Mallikarjunaswamy kalamantap,"No 8, Sriramapura 2nd Stage, near Vivekananda Circle, Mysuru, Karnataka 570023",Inactive
+1905373,TRAFFIC STOP,02-03-2023 21:15,~,Lingambudhi Park,"Ramakrishnanagar, Mysuru, Karnataka 570023",Inactive
+1905374,LOUD MUSIC,03-03-2023 21:30,~,A V HOSPITAL,"Siddartha Nagar, Mysore, Karnataka 570011",Inactive
+1905375,BATTERY,04-03-2023 06:39,~,Neelanjana Mahesh Prasad,"35/A, Vishwamanava Double Road, Block A, MUDA Employees Layout, Ramakrishnanagar, Mysuru, ",Inactive
+1905376,MURDER,05-03-2023 05:39,~,"Amrita Vishwa Vidyapeetham, Mysore Campus","Bogadi 2nd Stage, Karnataka 570026",Closed
+1905377,ASSIST FIRE DEPT PLICE,06-03-2023 04:39,~,Nexus Centre City,"Nazarbad Mohalla, Mysore, Karnataka 570010",Inactive
